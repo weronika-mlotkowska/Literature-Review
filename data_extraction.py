@@ -1,22 +1,16 @@
-import requests
 from dataclasses import dataclass
 from typing import Callable, List, Dict, Protocol
 import pandas as pd
 import json
-
-API_KEY = '' #your API key
-Insttoken='' #your Institution Token
-
-HEADERS = {
-    "Accept": "application/json",
-    "X-ELS-APIKey": API_KEY,
-    "X-ELS-Insttoken":Insttoken
-}
+import references
+import tqdm
+import utils
 
 @dataclass
 class Config:
     input_file: str
     output_file:str
+    output_dir:str
 
 class InputReader(Protocol):
     def read(self, file: str) -> List: ...
@@ -32,11 +26,6 @@ class JSONReader:
         with open(file,'r') as f:
             data=json.load(f)
         return list(data.keys())
-    
-class JSONResultWriter():
-    def write(self, report: Dict[str, object], output_file: str) -> None:
-        with open(output_file, "w") as f:
-            json.dump(report, f, indent=2)
 
 class MetadataExtractor:
     def __init__(
@@ -48,25 +37,17 @@ class MetadataExtractor:
     def extract(self, config: Config) -> Dict[str, object]:
         dois = self.reader.read(config.input_file)
         result={}
-        for i, doi in enumerate(dois, 1):
-            print(f"[{i}/{len(dois)}] Processing DOI: {doi}")
+        global key
+        for doi in tqdm.tqdm(dois, desc="Processing DOIs", unit="doi"):
+            print(f"DOI: {doi}")
+            key=doi
             metadata = {}
             url=f"https://api.elsevier.com/content/search/scopus?query=DOI({doi})"
-            entries=get_work(doi,url)["search-results"]["entry"]
+            entries=utils.get_work(doi,url)["search-results"]["entry"]
             for metric in self.metrics:
                 metadata.update(metric(entries))
             result[doi]=metadata
         return result
-    
-def get_work(doi:str,url:str) -> Dict:
-    try:
-        r = requests.get(url, headers=HEADERS)
-        r.raise_for_status()
-        data = r.json()
-        return data
-    except Exception as e:
-        print(f"Error fetching work for {doi}: {str(e)}")
-        return {}
 
 def get_publicationName(entries:Dict) -> Dict[str, str]:
     try:
@@ -108,29 +89,28 @@ def get_citedbyCount(entries:Dict) -> Dict[str, str]:
         print(f"Error fetching citedbyCount: {str(e)}")
         return {'citedby_count':'-'}
 
-def get_refDOIs(entries:Dict) -> Dict[str, str]:
-    #to do
-    pass
+def get_referencesInfo(entries:dict) -> dict[str, str]:
+    return references.get_referencesInfo(entries,key)
+
 
 def main():
     config = Config(
         input_file="files_input/dois_test.csv",
-        output_file='files_output/data_test.json'
+        output_file='data_test.json',
+        output_dir='files_output'
     )
     preprocessing_steps = [
         get_publicationName,
         get_year,
         get_title,
-        get_citedbyCount
+        get_citedbyCount,
+        get_referencesInfo
     ]
     reader = CSVReader()
-    if not API_KEY:
-        raise ValueError("API_KEY and/or Insttoken must be set before running.")
-    else:
-        extractor = MetadataExtractor(reader, preprocessing_steps)
-        report = extractor.extract(config)
-        writer = JSONResultWriter()
-        writer.write(report, config.output_file)
+    extractor = MetadataExtractor(reader, preprocessing_steps)
+    report = extractor.extract(config)
+    writer = utils.JSONResultWriter()
+    writer.write(report, config.output_file,config.output_dir)
 
 if __name__ == "__main__":
     main()
