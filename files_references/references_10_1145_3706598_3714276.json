@@ -1,0 +1,4365 @@
+{
+  "https://support.bantamtools.com/hc/en-us/articles/115001656813-Altium": {
+    "ref-publicationyear": {
+      "@first": "2024"
+    },
+    "ref-website": {
+      "websitename": "Altium",
+      "ce:e-address": {
+        "$": "https://support.bantamtools.com/hc/en-us/articles/115001656813-Altium",
+        "@type": "email"
+      }
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "105005754065",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-text": "Accessed: 09-11-2024.",
+    "ref-sourcetitle": "Altium"
+  },
+  "10.1145/3491101.3519823": {
+    "ref-publicationyear": {
+      "@first": "2022"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3491101.3519823",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "A tale of two mice: Sustainable electronics design and prototyping"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "263",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85129726994",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "10"
+      }
+    },
+    "ref-text": "(New Orleans, LA, USA) (CHI EA '22). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "V.",
+          "@_fa": "true",
+          "ce:surname": "Arroyos",
+          "ce:indexed-name": "Arroyos V."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "K.M.L.",
+          "@_fa": "true",
+          "ce:surname": "Viitaniemi",
+          "ce:indexed-name": "Viitaniemi K.M.L."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "N.",
+          "@_fa": "true",
+          "ce:surname": "Keehn",
+          "ce:indexed-name": "Keehn N."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "V.",
+          "@_fa": "true",
+          "ce:surname": "Oruganti",
+          "ce:indexed-name": "Oruganti V."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "W.",
+          "@_fa": "true",
+          "ce:surname": "Saunders",
+          "ce:indexed-name": "Saunders W."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Strauss",
+          "ce:indexed-name": "Strauss K."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "V.",
+          "@_fa": "true",
+          "ce:surname": "Iyer",
+          "ce:indexed-name": "Iyer V."
+        },
+        {
+          "@seq": "8",
+          "ce:initials": "B.H.",
+          "@_fa": "true",
+          "ce:surname": "Nguyen",
+          "ce:indexed-name": "Nguyen B.H."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems"
+  },
+  "10.1109/TCPMT.2016.2642824": {
+    "ref-publicationyear": {
+      "@first": "2017"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1109/TCPMT.2016.2642824",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Pcb reverse engineering using nondestructive x-ray tomography and advanced image processing"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85010004878",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "7",
+        "@issue": "2"
+      },
+      "pagerange": {
+        "@first": "292",
+        "@last": "299"
+      }
+    },
+    "ref-text": "2017",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "N.",
+          "@_fa": "true",
+          "ce:surname": "Asadizanjani",
+          "ce:indexed-name": "Asadizanjani N."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Tehranipoor",
+          "ce:indexed-name": "Tehranipoor M."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Forte",
+          "ce:indexed-name": "Forte D."
+        }
+      ]
+    },
+    "ref-sourcetitle": "IEEE Transactions on Components, Packaging and Manufacturing Technology"
+  },
+  "https://support.bantamtools.com/hc/en-us/articles/115001668853-Othermill-V2": {
+    "ref-publicationyear": {
+      "@first": "2024"
+    },
+    "ref-website": {
+      "websitename": "Bantam",
+      "ce:e-address": {
+        "$": "https://support.bantamtools.com/hc/en-us/articles/115001668853-Othermill-V2",
+        "@type": "email"
+      }
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "105005743772",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-text": "Accessed: 09-11-2024.",
+    "ref-sourcetitle": "Othermill (V2)"
+  },
+  "10.1145/3490149.3501308": {
+    "ref-publicationyear": {
+      "@first": "2022"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3490149.3501308",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Designing with alganyl"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "2",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85124961446",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "14"
+      }
+    },
+    "ref-text": "(Daejeon, Republic of Korea) (TEI '22). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "F.",
+          "@_fa": "true",
+          "ce:surname": "Bell",
+          "ce:indexed-name": "Bell F."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "L.A.",
+          "@_fa": "true",
+          "ce:surname": "Naimi",
+          "ce:indexed-name": "Naimi L.A."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "McQuaid",
+          "ce:indexed-name": "McQuaid E."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Alistar",
+          "ce:indexed-name": "Alistar M."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Sixteenth International Conference on Tangible, Embedded, and Embodied Interaction"
+  },
+  "10.1145/3569009.3572805": {
+    "ref-publicationyear": {
+      "@first": "2023"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3569009.3572805",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Scoby breastplate: Slowly growing a microbial interface"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "34",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85149269980",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "15"
+      }
+    },
+    "ref-text": "(Warsaw, Poland) (TEI '23). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "F.",
+          "@_fa": "true",
+          "ce:surname": "Bell",
+          "ce:indexed-name": "Bell F."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Chow",
+          "ce:indexed-name": "Chow D."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Choi",
+          "ce:indexed-name": "Choi H."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Alistar",
+          "ce:indexed-name": "Alistar M."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the Seventeenth International Conference on Tangible, Embedded, and Embodied Interaction"
+  },
+  "10.1002/pc.25732": {
+    "ref-publicationyear": {
+      "@first": "2020"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1002/pc.25732",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "A novel approach for development of printed circuit board from biofiber based composites"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85088833367",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "41",
+        "@issue": "11"
+      },
+      "pagerange": {
+        "@first": "4550",
+        "@last": "4558"
+      }
+    },
+    "ref-text": "2020",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "K.N.",
+          "@_fa": "true",
+          "ce:surname": "Bharath",
+          "ce:indexed-name": "Bharath K.N."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "P.",
+          "@_fa": "true",
+          "ce:surname": "Madhu",
+          "ce:indexed-name": "Madhu P."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "T.G.Y.",
+          "@_fa": "true",
+          "ce:surname": "Gowda",
+          "ce:indexed-name": "Gowda T.G.Y."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Verma",
+          "ce:indexed-name": "Verma A."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "M.R.",
+          "@_fa": "true",
+          "ce:surname": "Sanjay",
+          "ce:indexed-name": "Sanjay M.R."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Siengchin",
+          "ce:indexed-name": "Siengchin S."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Polymer Composites"
+  },
+  "10.1145/1240624.1240705": {
+    "ref-publicationyear": {
+      "@first": "2007"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/1240624.1240705",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Sustainable interaction design: Invention & disposal, renewal & reuse"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "35348875545",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "503",
+        "@last": "512"
+      }
+    },
+    "ref-text": "(San Jose, California, USA) (CHI '07). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "Blevis",
+          "ce:indexed-name": "Blevis E."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems"
+  },
+  "10.31399/asm.cp.istfa2020p0157": {
+    "ref-publicationyear": {
+      "@first": "2020"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.31399/asm.cp.istfa2020p0157",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Automated via detection for PCB reverse engineering"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85104437076",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "157",
+        "@last": "171"
+      }
+    },
+    "ref-text": "vol. 83348. ASM International",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "U.J.",
+          "@_fa": "true",
+          "ce:surname": "Botero",
+          "ce:indexed-name": "Botero U.J."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Koblah",
+          "ce:indexed-name": "Koblah D."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "D.E.",
+          "@_fa": "true",
+          "ce:surname": "Capecci",
+          "ce:indexed-name": "Capecci D.E."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "F.",
+          "@_fa": "true",
+          "ce:surname": "Ganji",
+          "ce:indexed-name": "Ganji F."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "N.",
+          "@_fa": "true",
+          "ce:surname": "Asadizanjani",
+          "ce:indexed-name": "Asadizanjani N."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "D.L.",
+          "@_fa": "true",
+          "ce:surname": "Woodard",
+          "ce:indexed-name": "Woodard D.L."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Forte",
+          "ce:indexed-name": "Forte D."
+        }
+      ]
+    },
+    "ref-sourcetitle": "International Symposium for Testing and Failure Analysis"
+  },
+  "10.1145/3544549.3583927": {
+    "ref-publicationyear": {
+      "@first": "2023"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3544549.3583927",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "3d printable play-dough"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "428",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85158078780",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "4"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Buechley",
+          "ce:indexed-name": "Buechley L."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Ta",
+          "ce:indexed-name": "Ta R."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Johnson",
+          "ce:indexed-name": "Johnson A."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (CHI EA '23)."
+  },
+  "https://mgchemicals.com/downloads/tds/tds-4902p.pdf": {
+    "ref-publicationyear": {
+      "@first": "2024"
+    },
+    "ref-website": {
+      "websitename": "MG Chamicals",
+      "ce:e-address": {
+        "$": "https://mgchemicals.com/downloads/tds/tds-4902p.pdf",
+        "@type": "email"
+      }
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "105005760176",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-text": "Accessed: 09-11-2024.",
+    "ref-sourcetitle": "Technical data sheet of 4902P"
+  },
+  "https://www.chemtronics.com/how-to-pcb-trace-repair-with-conductiveink": {
+    "ref-publicationyear": {
+      "@first": "2019"
+    },
+    "ref-website": {
+      "websitename": "Chemtronics",
+      "ce:e-address": {
+        "$": "https://www.chemtronics.com/how-to-pcb-trace-repair-with-conductiveink",
+        "@type": "email"
+      }
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "105005737704",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-text": "Accessed: 09-11-2024.",
+    "ref-sourcetitle": "HOW-TO: PCB Trace Repair With Conductive Ink | Chemtronics"
+  },
+  "84951254062": {
+    "ref-publicationyear": {
+      "@first": "1991"
+    },
+    "ref-title": {
+      "ref-titletext": "Self-induced repair of printed circuit boards"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84951254062",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "78",
+        "@issue": "6"
+      },
+      "pagerange": {
+        "@first": "45",
+        "@last": "49"
+      }
+    },
+    "ref-text": "1991",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "C.J.",
+          "@_fa": "true",
+          "ce:surname": "Chen",
+          "ce:indexed-name": "Chen C.J."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "J.P.",
+          "@_fa": "true",
+          "ce:surname": "Partridge",
+          "ce:indexed-name": "Partridge J.P."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "B.",
+          "@_fa": "true",
+          "ce:surname": "Hussey",
+          "ce:indexed-name": "Hussey B."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Gupta",
+          "ce:indexed-name": "Gupta A."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Plating and surface finishing"
+  },
+  "10.1145/3381013": {
+    "ref-publicationyear": {
+      "@first": "2020"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3381013",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Silver tape: Inkjet-printed circuits peeled-and-Transferred on versatile substrates"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "6",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85085095494",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "4",
+        "@issue": "1"
+      },
+      "pagerange": {
+        "@first": "17"
+      }
+    },
+    "ref-text": "mar 2020",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "T.",
+          "@_fa": "true",
+          "ce:surname": "Cheng",
+          "ce:indexed-name": "Cheng T."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Narumi",
+          "ce:indexed-name": "Narumi K."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Do",
+          "ce:indexed-name": "Do Y."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Zhang",
+          "ce:indexed-name": "Zhang Y."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "T.D.",
+          "@_fa": "true",
+          "ce:surname": "Ta",
+          "ce:indexed-name": "Ta T.D."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "T.",
+          "@_fa": "true",
+          "ce:surname": "Sasatani",
+          "ce:indexed-name": "Sasatani T."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "Markvicka",
+          "ce:indexed-name": "Markvicka E."
+        },
+        {
+          "@seq": "8",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Kawahara",
+          "ce:indexed-name": "Kawahara Y."
+        },
+        {
+          "@seq": "9",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Yao",
+          "ce:indexed-name": "Yao L."
+        },
+        {
+          "@seq": "10",
+          "ce:initials": "G.D.",
+          "@_fa": "true",
+          "ce:surname": "Abowd",
+          "ce:indexed-name": "Abowd G.D."
+        },
+        {
+          "@seq": "11",
+          "ce:initials": "H.J.",
+          "@_fa": "true",
+          "ce:surname": "Oh",
+          "ce:indexed-name": "Oh H.J."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proc. ACM Interact. Mob.Wearable Ubiquitous Technol."
+  },
+  "10.1145/3544548.3580811": {
+    "ref-publicationyear": {
+      "@first": "2023"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3544548.3580811",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Functional destruction: Utilizing sustainable materials' physical transiency for electronics applications"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "366",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85160020074",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "16"
+      }
+    },
+    "ref-text": "(Hamburg, Germany) (CHI '23). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "T.",
+          "@_fa": "true",
+          "ce:surname": "Cheng",
+          "ce:indexed-name": "Cheng T."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "T.",
+          "@_fa": "true",
+          "ce:surname": "Tabb",
+          "ce:indexed-name": "Tabb T."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "J.W.",
+          "@_fa": "true",
+          "ce:surname": "Park",
+          "ce:indexed-name": "Park J.W."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "E.M.",
+          "@_fa": "true",
+          "ce:surname": "Gallo",
+          "ce:indexed-name": "Gallo E.M."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Maheshwari",
+          "ce:indexed-name": "Maheshwari A."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "G.D.",
+          "@_fa": "true",
+          "ce:surname": "Abowd",
+          "ce:indexed-name": "Abowd G.D."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Oh",
+          "ce:indexed-name": "Oh H."
+        },
+        {
+          "@seq": "8",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Danielescu",
+          "ce:indexed-name": "Danielescu A."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems"
+  },
+  "https://www.circuitrework.com/guides/6-1.html": {
+    "ref-publicationyear": {
+      "@first": "2024"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://www.circuitrework.com/guides/6-1.html",
+        "@type": "email"
+      }
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "105005734183",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-text": "[n.d.]. 6.1 Jumper Wires . Accessed: 09-11",
+    "ref-sourcetitle": "Circuit Technology Center"
+  },
+  "85115197404": {
+    "ref-publicationyear": {
+      "@first": "2019"
+    },
+    "ref-title": {
+      "ref-titletext": "LCA database creation: Current challenges and the way forward"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85115197404",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "3",
+        "@issue": "2"
+      },
+      "pagerange": {
+        "@first": "41",
+        "@last": "51"
+      }
+    },
+    "ref-text": "2019",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Cirotha",
+          "ce:indexed-name": "Cirotha A."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "C.",
+          "@_fa": "true",
+          "ce:surname": "Di Noia",
+          "ce:indexed-name": "Di Noia C."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "S.S.",
+          "@_fa": "true",
+          "ce:surname": "Burhana",
+          "ce:indexed-name": "Burhana S.S."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Srockaa",
+          "ce:indexed-name": "Srockaa M."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Indonesian Journal of Life Cycle Assessment and Sustainability"
+  },
+  "10.1145/3685270": {
+    "ref-publicationyear": {
+      "@first": "2024"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3685270",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Unmake to remake: Materiality-driven rapid prototyping"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "78",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85214555418",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "31",
+        "@issue": "6"
+      },
+      "pagerange": {
+        "@first": "31"
+      }
+    },
+    "ref-text": "Dec. 2024",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Deshpande",
+          "ce:indexed-name": "Deshpande H."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Takahashi",
+          "ce:indexed-name": "Takahashi H."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Kim",
+          "ce:indexed-name": "Kim J."
+        }
+      ]
+    },
+    "ref-sourcetitle": "ACM Trans. Comput.-Hum. Interact."
+  },
+  "10.1145/3322276.3322320": {
+    "ref-publicationyear": {
+      "@first": "2019"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3322276.3322320",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Designing with waste: A situated inquiry into the material excess of making"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85070627339",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "1307",
+        "@last": "1319"
+      }
+    },
+    "ref-text": "(San Diego, CA, USA) (DIS '19). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "K.N.",
+          "@_fa": "true",
+          "ce:surname": "Dew",
+          "ce:indexed-name": "Dew K.N."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "D.K.",
+          "@_fa": "true",
+          "ce:surname": "Rosner",
+          "ce:indexed-name": "Rosner D.K."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2019 on Designing Interactive Systems Conference"
+  },
+  "10.1109/SIITME.2015.7342343": {
+    "ref-publicationyear": {
+      "@first": "2015"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1109/SIITME.2015.7342343",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Analysis of current carrying capacity of silver-based conductive pastes for PCB repair"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84960451499",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "297",
+        "@last": "300"
+      }
+    },
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Drumea",
+          "ce:indexed-name": "Drumea A."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "C.I.",
+          "@_fa": "true",
+          "ce:surname": "Marghescu",
+          "ce:indexed-name": "Marghescu C.I."
+        }
+      ]
+    },
+    "ref-sourcetitle": "2015 IEEE 21st International Symposium for Design and Technology in Electronic Packaging (SIITME)."
+  },
+  "https://www.espboy.com/": {
+    "ref-publicationyear": {
+      "@first": "2024"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://www.espboy.com/",
+        "@type": "email"
+      }
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "105005757336",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-text": "Accessed: 09-11",
+    "ref-sourcetitle": "ESPBoy: Open-source ESP8266 Game Console [n.d.]"
+  },
+  "10.1016/B978-1-55860-643-2.X5000-8": {
+    "ref-publicationyear": {
+      "@first": "2003"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1016/B978-1-55860-643-2.X5000-8",
+        "@type": "email"
+      }
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84903855224",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-text": "Morgan Kaufmann, San Francisco, CA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "B.J.",
+          "@_fa": "true",
+          "ce:surname": "Fogg",
+          "ce:indexed-name": "Fogg B.J."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Persuasive Technology: Using Computers to Change What We Think and Do"
+  },
+  "10.1145/1518701.1518861": {
+    "ref-publicationyear": {
+      "@first": "2009"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/1518701.1518861",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "UbiGreen: Investigating a mobile tool for tracking and supporting green transportation habits"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84892468469",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "1043",
+        "@last": "1052"
+      }
+    },
+    "ref-text": "(Boston, MA, USA) (CHI '09). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Froehlich",
+          "ce:indexed-name": "Froehlich J."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "T.",
+          "@_fa": "true",
+          "ce:surname": "Dillahunt",
+          "ce:indexed-name": "Dillahunt T."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "P.",
+          "@_fa": "true",
+          "ce:surname": "Klasnja",
+          "ce:indexed-name": "Klasnja P."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Mankoff",
+          "ce:indexed-name": "Mankoff J."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Consolvo",
+          "ce:indexed-name": "Consolvo S."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "B.",
+          "@_fa": "true",
+          "ce:surname": "Harrison",
+          "ce:indexed-name": "Harrison B."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "J.A.",
+          "@_fa": "true",
+          "ce:surname": "Landay",
+          "ce:indexed-name": "Landay J.A."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems"
+  },
+  "10.1145/3161165": {
+    "ref-publicationyear": {
+      "@first": "2018"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3161165",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Objectskin: Augmenting everyday objects with hydroprinted touch sensors and displays"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "134",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85054008854",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "1",
+        "@issue": "4"
+      },
+      "pagerange": {
+        "@first": "23"
+      }
+    },
+    "ref-text": "jan 2018",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Groeger",
+          "ce:indexed-name": "Groeger D."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Steimle",
+          "ce:indexed-name": "Steimle J."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol."
+  },
+  "10.1145/3569009.3572798": {
+    "ref-publicationyear": {
+      "@first": "2023"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3569009.3572798",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Light tissue: Development of cellulose-based optical textile sensors"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "27",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85149341045",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "14"
+      }
+    },
+    "ref-text": "(Warsaw, Poland) (TEI '23). Association for Computing Machinery, NewYork,NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Guridi",
+          "ce:indexed-name": "Guridi S."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "Pouta",
+          "ce:indexed-name": "Pouta E."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Hokkanen",
+          "ce:indexed-name": "Hokkanen A."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Jaiswal",
+          "ce:indexed-name": "Jaiswal A."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the Seventeenth International Conference on Tangible, Embedded, and Embodied Interaction"
+  },
+  "10.1007/978-3-319-56475-3": {
+    "ref-publicationyear": {
+      "@first": "2018"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1007/978-3-319-56475-3",
+        "@type": "email"
+      }
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85033387843",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-text": "Springer International Publishing, Cham, Switzerland",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "M.Z.",
+          "@_fa": "true",
+          "ce:surname": "Hauschild",
+          "ce:indexed-name": "Hauschild M.Z."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "R.K.",
+          "@_fa": "true",
+          "ce:surname": "Rosenbaum",
+          "ce:indexed-name": "Rosenbaum R.K."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "S.I.",
+          "@_fa": "true",
+          "ce:surname": "Olsen",
+          "ce:indexed-name": "Olsen S.I."
+        }
+      ],
+      "et-al": null
+    },
+    "ref-sourcetitle": "Life Cycle Assessment: Theory and Practice"
+  },
+  "10.1039/C8GC03688H": {
+    "ref-publicationyear": {
+      "@first": "2019"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1039/C8GC03688H",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Advancements in the treatment and processing of electronic waste with sustainability: A review of metal extraction and recovery technologies"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85062513040",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "21",
+        "@issue": "5"
+      },
+      "pagerange": {
+        "@first": "919",
+        "@last": "936"
+      }
+    },
+    "ref-text": "2019",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "Hsu",
+          "ce:indexed-name": "Hsu E."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Barmak",
+          "ce:indexed-name": "Barmak K."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "A.C.",
+          "@_fa": "true",
+          "ce:surname": "West",
+          "ce:indexed-name": "West A.C."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "A.-H.A.",
+          "@_fa": "true",
+          "ce:surname": "Park",
+          "ce:indexed-name": "Park A.-H.A."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Green Chem."
+  },
+  "https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201403164": {
+    "ref-publicationyear": {
+      "@first": "2014"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201403164",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Biodegradable materials for multilayer transient printed circuit boards"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84922223075",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "26",
+        "@issue": "43"
+      },
+      "pagerange": {
+        "@first": "7371",
+        "@last": "7377"
+      }
+    },
+    "ref-text": "2014",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "X.",
+          "@_fa": "true",
+          "ce:surname": "Huang",
+          "ce:indexed-name": "Huang X."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Liu",
+          "ce:indexed-name": "Liu Y."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "S.-W.",
+          "@_fa": "true",
+          "ce:surname": "Hwang",
+          "ce:indexed-name": "Hwang S.-W."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "S.-K.",
+          "@_fa": "true",
+          "ce:surname": "Kang",
+          "ce:indexed-name": "Kang S.-K."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Patnaik",
+          "ce:indexed-name": "Patnaik D."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "J.F.",
+          "@_fa": "true",
+          "ce:surname": "Cortes",
+          "ce:indexed-name": "Cortes J.F."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "J.A.",
+          "@_fa": "true",
+          "ce:surname": "Rogers",
+          "ce:indexed-name": "Rogers J.A."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Advanced Materials"
+  },
+  "10.1145/2858036.2858266": {
+    "ref-publicationyear": {
+      "@first": "2016"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/2858036.2858266",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Understanding newcomers to 3d printing: Motivations, workflows, and barriers of casual makers"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85006053453",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "384",
+        "@last": "396"
+      }
+    },
+    "ref-text": "(San Jose, California, USA) (CHI '16). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "N.",
+          "@_fa": "true",
+          "ce:surname": "Hudson",
+          "ce:indexed-name": "Hudson N."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "C.",
+          "@_fa": "true",
+          "ce:surname": "Alcock",
+          "ce:indexed-name": "Alcock C."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "P.K.",
+          "@_fa": "true",
+          "ce:surname": "Chilana",
+          "ce:indexed-name": "Chilana P.K."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems"
+  },
+  "10.31399/asm.tb.ps.9781627083522": {
+    "ref-publicationyear": {
+      "@first": "2004"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.31399/asm.tb.ps.9781627083522",
+        "@type": "email"
+      }
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "77950087233",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-text": "ASM International",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "G.",
+          "@_fa": "true",
+          "ce:surname": "Humpston",
+          "ce:indexed-name": "Humpston G."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "D.M.",
+          "@_fa": "true",
+          "ce:surname": "Jacobson",
+          "ce:indexed-name": "Jacobson D.M."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Principles of Soldering"
+  },
+  "10.1145/3474349.3480191": {
+    "ref-publicationyear": {
+      "@first": "2021"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3474349.3480191",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Fabricating wooden circuit boards by laser beam machining"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85117950485",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "109",
+        "@last": "111"
+      }
+    },
+    "ref-text": "(Virtual Event, USA) (UIST '21 Adjunct). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Ishii",
+          "ce:indexed-name": "Ishii A."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Kato",
+          "ce:indexed-name": "Kato K."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Ikematsu",
+          "ce:indexed-name": "Ikematsu K."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Kawahara",
+          "ce:indexed-name": "Kawahara Y."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "I.",
+          "@_fa": "true",
+          "ce:surname": "Siio",
+          "ce:indexed-name": "Siio I."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Adjunct Proceedings of the 34th Annual ACM Symposium on User Interface Software and Technology"
+  },
+  "http://www.ijdesign.org/index.php/IJDesign/article/view/2918": {
+    "ref-publicationyear": {
+      "@first": "2018"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "http://www.ijdesign.org/index.php/IJDesign/article/view/2918",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "When the material grows: A case study on designing (with) mycelium-based materials"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85056877462",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "12",
+        "@issue": "2"
+      },
+      "pagerange": {
+        "@first": "119",
+        "@last": "136"
+      }
+    },
+    "ref-text": "2018",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "Karana",
+          "ce:indexed-name": "Karana E."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Blauwhoff",
+          "ce:indexed-name": "Blauwhoff D."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "E.-J.",
+          "@_fa": "true",
+          "ce:surname": "Hultink",
+          "ce:indexed-name": "Hultink E.-J."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Camere",
+          "ce:indexed-name": "Camere S."
+        }
+      ]
+    },
+    "ref-sourcetitle": "International Journal of Design"
+  },
+  "10.1145/2493432.2493486": {
+    "ref-publicationyear": {
+      "@first": "2013"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/2493432.2493486",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Instant inkjet circuits: Lab-based inkjet printing to support rapid prototyping of ubicomp devices"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84885225460",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "363",
+        "@last": "372"
+      }
+    },
+    "ref-text": "(Zurich, Switzerland) (UbiComp '13). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Kawahara",
+          "ce:indexed-name": "Kawahara Y."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Hodges",
+          "ce:indexed-name": "Hodges S."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "B.S.",
+          "@_fa": "true",
+          "ce:surname": "Cook",
+          "ce:indexed-name": "Cook B.S."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "C.",
+          "@_fa": "true",
+          "ce:surname": "Zhang",
+          "ce:indexed-name": "Zhang C."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "G.D.",
+          "@_fa": "true",
+          "ce:surname": "Abowd",
+          "ce:indexed-name": "Abowd G.D."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2013 ACM International Joint Conference on Pervasive and Ubiquitous Computing"
+  },
+  "10.1145/1978942.1979292": {
+    "ref-publicationyear": {
+      "@first": "2011"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/1978942.1979292",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Practices in the creative reuse of e-waste"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "79958099325",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "2395",
+        "@last": "2404"
+      }
+    },
+    "ref-text": "(Vancouver, BC, Canada) (CHI '11). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Kim",
+          "ce:indexed-name": "Kim S."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "Paulos",
+          "ce:indexed-name": "Paulos E."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems"
+  },
+  "10.1145/3526113.3545623": {
+    "ref-publicationyear": {
+      "@first": "2022"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3526113.3545623",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Prototyping soft devices with interactive bioplastics"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "19",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85141576852",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "16"
+      }
+    },
+    "ref-text": "(Bend, OR, USA) (UIST '22). Association for Computing Machinery, NewYork,NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Koelle",
+          "ce:indexed-name": "Koelle M."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Nicolae",
+          "ce:indexed-name": "Nicolae M."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "A.S.",
+          "@_fa": "true",
+          "ce:surname": "Nittala",
+          "ce:indexed-name": "Nittala A.S."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Teyssier",
+          "ce:indexed-name": "Teyssier M."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Steimle",
+          "ce:indexed-name": "Steimle J."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology"
+  },
+  "10.1145/3596265": {
+    "ref-publicationyear": {
+      "@first": "2023"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3596265",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Circuitglue: A software configurable converter for interconnecting multiple heterogeneous electronic components"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "63",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85162274224",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "7",
+        "@issue": "2"
+      },
+      "pagerange": {
+        "@first": "30"
+      }
+    },
+    "ref-text": "June 2023",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Lambrichts",
+          "ce:indexed-name": "Lambrichts M."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Ramakers",
+          "ce:indexed-name": "Ramakers R."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Hodges",
+          "ce:indexed-name": "Hodges S."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Devine",
+          "ce:indexed-name": "Devine J."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Underwood",
+          "ce:indexed-name": "Underwood L."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Finney",
+          "ce:indexed-name": "Finney J."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol."
+  },
+  "39649089707": {
+    "ref-publicationyear": {
+      "@first": "2005"
+    },
+    "ref-title": {
+      "ref-titletext": "PCB machining and repair via laser"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "39649089707",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "2",
+        "@issue": "1"
+      },
+      "pagerange": {
+        "@first": "12",
+        "@last": "14"
+      }
+    },
+    "ref-text": "2005",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "B.",
+          "@_fa": "true",
+          "ce:surname": "Lange",
+          "ce:indexed-name": "Lange B."
+        }
+      ]
+    },
+    "ref-sourcetitle": "OnBoard Technol"
+  },
+  "10.1145/3613904.3642387": {
+    "ref-publicationyear": {
+      "@first": "2024"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3613904.3642387",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Desktop biofibers spinning: An open-source machine for exploring biobased fibers and their application towards sustainable smart textile design"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "856",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85194900320",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "18"
+      }
+    },
+    "ref-text": "(Honolulu, HI, USA) (CHI '24). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "E.S.L.",
+          "@_fa": "true",
+          "ce:surname": "Vasquez",
+          "ce:indexed-name": "Vasquez E.S.L."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Alistar",
+          "ce:indexed-name": "Alistar M."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Devendorf",
+          "ce:indexed-name": "Devendorf L."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "M.L.",
+          "@_fa": "true",
+          "ce:surname": "Rivera",
+          "ce:indexed-name": "Rivera M.L."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the CHI Conference on Human Factors in Computing Systems"
+  },
+  "10.1002/admt.202100514": {
+    "ref-publicationyear": {
+      "@first": "2021"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1002/admt.202100514",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Direct laser writing of graphene-based electrical interconnects for printed circuit board repair"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85113158573",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "6",
+        "@issue": "12"
+      },
+      "pagerange": {
+        "@first": "2100514"
+      }
+    },
+    "ref-text": "2021",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "C.H.J.",
+          "@_fa": "true",
+          "ce:surname": "Lim",
+          "ce:indexed-name": "Lim C.H.J."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "C.S.S.",
+          "@_fa": "true",
+          "ce:surname": "Sandeep",
+          "ce:indexed-name": "Sandeep C.S.S."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "V.M.",
+          "@_fa": "true",
+          "ce:surname": "Murukeshan",
+          "ce:indexed-name": "Murukeshan V.M."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "Y.-J.",
+          "@_fa": "true",
+          "ce:surname": "Kim",
+          "ce:indexed-name": "Kim Y.-J."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Advanced Materials Technologies"
+  },
+  "10.1145/3586183.3606745": {
+    "ref-publicationyear": {
+      "@first": "2023"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3586183.3606745",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Ecoeda: Recycling e-waste during electronics design"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "30",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85178294811",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "14"
+      }
+    },
+    "ref-text": "(San Francisco, CA, USA) (UIST '23). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Lu",
+          "ce:indexed-name": "Lu J."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "B.",
+          "@_fa": "true",
+          "ce:surname": "Desta",
+          "ce:indexed-name": "Desta B."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "K.D.",
+          "@_fa": "true",
+          "ce:surname": "Wu",
+          "ce:indexed-name": "Wu K.D."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Nith",
+          "ce:indexed-name": "Nith R."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "J.E.",
+          "@_fa": "true",
+          "ce:surname": "Passananti",
+          "ce:indexed-name": "Passananti J.E."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "P.",
+          "@_fa": "true",
+          "ce:surname": "Lopes",
+          "ce:indexed-name": "Lopes P."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology"
+  },
+  "10.1109/MPRV.2024.3383793": {
+    "ref-publicationyear": {
+      "@first": "2024"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1109/MPRV.2024.3383793",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Re-envisioning the role of a user in sustainable computing"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85190751023",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "23",
+        "@issue": "2"
+      },
+      "pagerange": {
+        "@first": "38",
+        "@last": "44"
+      }
+    },
+    "ref-text": "2024",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Lu",
+          "ce:indexed-name": "Lu J."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "P.",
+          "@_fa": "true",
+          "ce:surname": "Lopes",
+          "ce:indexed-name": "Lopes P."
+        }
+      ]
+    },
+    "ref-sourcetitle": "IEEE Pervasive Computing"
+  },
+  "10.1145/3613904.3642765": {
+    "ref-publicationyear": {
+      "@first": "2024"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3613904.3642765",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Solderlesspcb: Reusing electronic components in pcb prototyping through detachable 3d printed housings"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "345",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85194821352",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "17"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "Z.",
+          "@_fa": "true",
+          "ce:surname": "Yan",
+          "ce:indexed-name": "Yan Z."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Li",
+          "ce:indexed-name": "Li J."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "Z.",
+          "@_fa": "true",
+          "ce:surname": "Zhang",
+          "ce:indexed-name": "Zhang Z."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Peng",
+          "ce:indexed-name": "Peng H."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24)."
+  },
+  "10.1145/2069618.2069633": {
+    "ref-publicationyear": {
+      "@first": "2011"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/2069618.2069633",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Understanding repair as a creative process of everyday design"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85015039461",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "81",
+        "@last": "90"
+      }
+    },
+    "ref-text": "(Atlanta, Georgia, USA) (C&C '11). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Maestri",
+          "ce:indexed-name": "Maestri L."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Wakkary",
+          "ce:indexed-name": "Wakkary R."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 8th ACM Conference on Creativity and Cognition"
+  },
+  "10.1109/ISSE.2015.7248015": {
+    "ref-publicationyear": {
+      "@first": "2015"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1109/ISSE.2015.7248015",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Investigation on current capabilities of Ni-based conductive pastes for PCB repair"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84958180432",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "324",
+        "@last": "328"
+      }
+    },
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "C.I.",
+          "@_fa": "true",
+          "ce:surname": "Marghescu",
+          "ce:indexed-name": "Marghescu C.I."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Drumea",
+          "ce:indexed-name": "Drumea A."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "B.T.",
+          "@_fa": "true",
+          "ce:surname": "Mihailescu",
+          "ce:indexed-name": "Mihailescu B.T."
+        }
+      ]
+    },
+    "ref-sourcetitle": "2015 38th International Spring Seminar on Electronics Technology (ISSE)."
+  },
+  "10.1016/j.rser.2015.12.243": {
+    "ref-publicationyear": {
+      "@first": "2016"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1016/j.rser.2015.12.243",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "LCA databases focused on construction materials: A review"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84954290758",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "58"
+      },
+      "pagerange": {
+        "@first": "565",
+        "@last": "573"
+      }
+    },
+    "ref-text": "2016",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Martinez-Rocamora",
+          "ce:indexed-name": "Martinez-Rocamora A."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Solis-Guzman",
+          "ce:indexed-name": "Solis-Guzman J."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Marrero",
+          "ce:indexed-name": "Marrero M."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Renewable and Sustainable Energy Reviews"
+  },
+  "10.3390/su131810357": {
+    "ref-publicationyear": {
+      "@first": "2021"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.3390/su131810357",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Dismantling of printed circuit boards enabling electronic components sorting and their subsequent treatment open improved elemental sustainability opportunities"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85115650894",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "13",
+        "@issue": "18"
+      }
+    },
+    "ref-text": "2021",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "A.A.",
+          "@_fa": "true",
+          "ce:surname": "Maurice",
+          "ce:indexed-name": "Maurice A.A."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "K.N.",
+          "@_fa": "true",
+          "ce:surname": "Dinh",
+          "ce:indexed-name": "Dinh K.N."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "N.M.",
+          "@_fa": "true",
+          "ce:surname": "Charpentier",
+          "ce:indexed-name": "Charpentier N.M."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Brambilla",
+          "ce:indexed-name": "Brambilla A."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "J.-C.P.",
+          "@_fa": "true",
+          "ce:surname": "Gabriel",
+          "ce:indexed-name": "Gabriel J.-C.P."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Sustainability"
+  },
+  "https://www.instructables.com/Arduino-Wristwatch/": {
+    "ref-publicationyear": {
+      "@first": "2019"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://www.instructables.com/Arduino-Wristwatch/",
+        "@type": "email"
+      }
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "105005753262",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-text": "mblaz. Accessed: 09-11-2024.",
+    "ref-sourcetitle": "IOWatch (Arduino IDE PoweredWristwatch) : 8 Steps (with Pictures) - Instructables"
+  },
+  "10.1145/2677199.2683582": {
+    "ref-publicationyear": {
+      "@first": "2015"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/2677199.2683582",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Un-crafting: Exploring tangible practices for deconstruction in interactive system design"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84924048636",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "469",
+        "@last": "472"
+      }
+    },
+    "ref-text": "(Stanford, California, USA) (TEI '15). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Murer",
+          "ce:indexed-name": "Murer M."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Vallgarda",
+          "ce:indexed-name": "Vallgarda A."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Jacobsson",
+          "ce:indexed-name": "Jacobsson M."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Tscheligi",
+          "ce:indexed-name": "Tscheligi M."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the Ninth International Conference on Tangible, Embedded, and Embodied Interaction"
+  },
+  "10.1145/3332165.3347901": {
+    "ref-publicationyear": {
+      "@first": "2019"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3332165.3347901",
+        "@type": "email"
+      }
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85074869847",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "293",
+        "@last": "306"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Narumi",
+          "ce:indexed-name": "Narumi K."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "F.",
+          "@_fa": "true",
+          "ce:surname": "Qin",
+          "ce:indexed-name": "Qin F."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Liu",
+          "ce:indexed-name": "Liu S."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "H.-Y.",
+          "@_fa": "true",
+          "ce:surname": "Cheng",
+          "ce:indexed-name": "Cheng H.-Y."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Gu",
+          "ce:indexed-name": "Gu J."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Kawahara",
+          "ce:indexed-name": "Kawahara Y."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Islam",
+          "ce:indexed-name": "Islam M."
+        },
+        {
+          "@seq": "8",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Yao",
+          "ce:indexed-name": "Yao L."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Self-healing UI: Mechanically and Electrically Self-healing Materials for Sensing and Actuation Interfaces (UIST '19)"
+  },
+  "10.1145/2702613.2732876": {
+    "ref-publicationyear": {
+      "@first": "2015"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/2702613.2732876",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Circuit eraser: A tool for iterative design with conductive ink"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84954285722",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "2307",
+        "@last": "2312"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Narumi",
+          "ce:indexed-name": "Narumi K."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "X.",
+          "@_fa": "true",
+          "ce:surname": "Shi",
+          "ce:indexed-name": "Shi X."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Hodges",
+          "ce:indexed-name": "Hodges S."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Kawahara",
+          "ce:indexed-name": "Kawahara Y."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Shimizu",
+          "ce:indexed-name": "Shimizu S."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "T.",
+          "@_fa": "true",
+          "ce:surname": "Asami",
+          "ce:indexed-name": "Asami T."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 33rd Annual ACM Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA '15)"
+  },
+  "10.1016/j.wasman.2017.07.019": {
+    "ref-publicationyear": {
+      "@first": "2017"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1016/j.wasman.2017.07.019",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Soldering mask laser removal from printed circuit boards aiming copper recycling"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85025153607",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "68"
+      },
+      "pagerange": {
+        "@first": "475",
+        "@last": "481"
+      }
+    },
+    "ref-text": "2017",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "M.P.",
+          "@_fa": "true",
+          "ce:surname": "Raele",
+          "ce:indexed-name": "Raele M.P."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "L.R.",
+          "@_fa": "true",
+          "ce:surname": "De Pretto",
+          "ce:indexed-name": "De Pretto L.R."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "D.M.",
+          "@_fa": "true",
+          "ce:surname": "Zezell",
+          "ce:indexed-name": "Zezell D.M."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Waste Management"
+  },
+  "10.1145/3563657.3595983": {
+    "ref-publicationyear": {
+      "@first": "2023"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3563657.3595983",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Designing a sustainable material for 3d printing with spent coffee grounds"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85178511626",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "294",
+        "@last": "311"
+      }
+    },
+    "ref-text": "(Pittsburgh, PA, USA) (DIS '23). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "M.L.",
+          "@_fa": "true",
+          "ce:surname": "Rivera",
+          "ce:indexed-name": "Rivera M.L."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "S.S.",
+          "@_fa": "true",
+          "ce:surname": "Bae",
+          "ce:indexed-name": "Bae S.S."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "S.E.",
+          "@_fa": "true",
+          "ce:surname": "Hudson",
+          "ce:indexed-name": "Hudson S.E."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2023 ACM Designing Interactive Systems Conference"
+  },
+  "10.1145/2598510.2598544": {
+    "ref-publicationyear": {
+      "@first": "2014"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/2598510.2598544",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Everyday making: Identifying future uses for 3D printing in the home"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84904479744",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "815",
+        "@last": "824"
+      }
+    },
+    "ref-text": "(Vancouver, BC, Canada) (DIS '14). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Shewbridge",
+          "ce:indexed-name": "Shewbridge R."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Hurst",
+          "ce:indexed-name": "Hurst A."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "S.K.",
+          "@_fa": "true",
+          "ce:surname": "Kane",
+          "ce:indexed-name": "Kane S.K."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2014 Conference on Designing Interactive Systems"
+  },
+  "10.1145/3613905.3636300": {
+    "ref-publicationyear": {
+      "@first": "2024"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3613905.3636300",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Sustainable unmaking: Designing for biodegradation, decay, and disassembly"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "489",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85194153000",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "7"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "K.W.",
+          "@_fa": "true",
+          "ce:surname": "Song",
+          "ce:indexed-name": "Song K.W."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "F.",
+          "@_fa": "true",
+          "ce:surname": "Bell",
+          "ce:indexed-name": "Bell F."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Deshpande",
+          "ce:indexed-name": "Deshpande H."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "I.",
+          "@_fa": "true",
+          "ce:surname": "Mandel",
+          "ce:indexed-name": "Mandel I."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "T.",
+          "@_fa": "true",
+          "ce:surname": "Wun",
+          "ce:indexed-name": "Wun T."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Alistar",
+          "ce:indexed-name": "Alistar M."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Buechley",
+          "ce:indexed-name": "Buechley L."
+        },
+        {
+          "@seq": "8",
+          "ce:initials": "W.",
+          "@_fa": "true",
+          "ce:surname": "Ju",
+          "ce:indexed-name": "Ju W."
+        },
+        {
+          "@seq": "9",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Kim",
+          "ce:indexed-name": "Kim J."
+        },
+        {
+          "@seq": "10",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "Paulos",
+          "ce:indexed-name": "Paulos E."
+        },
+        {
+          "@seq": "11",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Sabie",
+          "ce:indexed-name": "Sabie S."
+        },
+        {
+          "@seq": "12",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Wakkary",
+          "ce:indexed-name": "Wakkary R."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Extended Abstracts of the 2024 CHI Conference on Human Factors in Computing Systems (CHI EA '24)."
+  },
+  "10.1145/3491102.3502007": {
+    "ref-publicationyear": {
+      "@first": "2022"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3491102.3502007",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Towards decomposable interactive systems: Design of a backyard-degradable wireless heating interface"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "100",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85130581253",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "12"
+      }
+    },
+    "ref-text": "(New Orleans, LA, USA) (CHI '22). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "K.W.",
+          "@_fa": "true",
+          "ce:surname": "Song",
+          "ce:indexed-name": "Song K.W."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Maheshwari",
+          "ce:indexed-name": "Maheshwari A."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "E.M.",
+          "@_fa": "true",
+          "ce:surname": "Gallo",
+          "ce:indexed-name": "Gallo E.M."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Danielescu",
+          "ce:indexed-name": "Danielescu A."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "Paulos",
+          "ce:indexed-name": "Paulos E."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems"
+  },
+  "10.1145/3411764.3445529": {
+    "ref-publicationyear": {
+      "@first": "2021"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3411764.3445529",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Unmaking: Enabling and celebrating the creative material of failure, destruction, decay, and deformation"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "429",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85106694165",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "12"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "K.W.",
+          "@_fa": "true",
+          "ce:surname": "Song",
+          "ce:indexed-name": "Song K.W."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "Paulos",
+          "ce:indexed-name": "Paulos E."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21)."
+  },
+  "10.1145/3544548.3581110": {
+    "ref-publicationyear": {
+      "@first": "2023"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3544548.3581110",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Vim: Customizable, decomposable electrical energy storage"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "180",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85160010940",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "18"
+      }
+    },
+    "ref-text": "(Hamburg, Germany) (CHI '23). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "K.W.",
+          "@_fa": "true",
+          "ce:surname": "Song",
+          "ce:indexed-name": "Song K.W."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "Paulos",
+          "ce:indexed-name": "Paulos E."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems"
+  },
+  "10.1145/3689047": {
+    "ref-publicationyear": {
+      "@first": "2025"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3689047",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Unmaking and hci: Techniques, technologies, materials, and philosophies beyond making"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "76",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85214578543",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "31",
+        "@issue": "6"
+      },
+      "pagerange": {
+        "@first": "6"
+      }
+    },
+    "ref-text": "Jan. 2025",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "K.W.",
+          "@_fa": "true",
+          "ce:surname": "Song",
+          "ce:indexed-name": "Song K.W."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Sabie",
+          "ce:indexed-name": "Sabie S."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "S.J.",
+          "@_fa": "true",
+          "ce:surname": "Jackson",
+          "ce:indexed-name": "Jackson S.J."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Lindstrom",
+          "ce:indexed-name": "Lindstrom K."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "Paulos",
+          "ce:indexed-name": "Paulos E."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Stahl",
+          "ce:indexed-name": "Stahl A."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Wakkary",
+          "ce:indexed-name": "Wakkary R."
+        }
+      ]
+    },
+    "ref-sourcetitle": "ACM Trans. Comput.- Hum. Interact."
+  },
+  "10.1016/j.resconrec.2023.107281": {
+    "ref-publicationyear": {
+      "@first": "2023"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1016/j.resconrec.2023.107281",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Energy and carbon footprint of metals through physical allocation. Implications for energy transition"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85174954164",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "199"
+      },
+      "pagerange": {
+        "@first": "107281"
+      }
+    },
+    "ref-text": "2023",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Torrubia",
+          "ce:indexed-name": "Torrubia J."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Valero",
+          "ce:indexed-name": "Valero A."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Valero",
+          "ce:indexed-name": "Valero A."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Resources, Conservation and Recycling"
+  },
+  "10.1145/3341163.3346938": {
+    "ref-publicationyear": {
+      "@first": "2019"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3341163.3346938",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Myco-accessories: Sustainable wearables with biodegradable materials"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85072805706",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "306",
+        "@last": "311"
+      }
+    },
+    "ref-text": "(London, United Kingdom) (ISWC '19). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "E.S.L.",
+          "@_fa": "true",
+          "ce:surname": "Vasquez",
+          "ce:indexed-name": "Vasquez E.S.L."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Vega",
+          "ce:indexed-name": "Vega K."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2019 ACM International Symposium on Wearable Computers"
+  },
+  "10.1145/3586183.3606718": {
+    "ref-publicationyear": {
+      "@first": "2023"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3586183.3606718",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Substiports: User-inserted ad hoc objects as reusable structural support for unmodified fdm 3d printers"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "34",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85178522001",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "20"
+      }
+    },
+    "ref-text": "(San Francisco, CA, USA) (UIST '23). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "L.W.",
+          "@_fa": "true",
+          "ce:surname": "Wall",
+          "ce:indexed-name": "Wall L.W."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "O.",
+          "@_fa": "true",
+          "ce:surname": "Schneider",
+          "ce:indexed-name": "Schneider O."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Vogel",
+          "ce:indexed-name": "Vogel D."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology"
+  },
+  "10.1145/3173574.3174143": {
+    "ref-publicationyear": {
+      "@first": "2018"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3173574.3174143",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Printed paper actuator: A low-cost reversible actuation and sensing method for shape changing interfaces"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85046963231",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "1",
+        "@last": "12"
+      }
+    },
+    "ref-text": "(Montreal QC, Canada) (CHI '18). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "G.",
+          "@_fa": "true",
+          "ce:surname": "Wang",
+          "ce:indexed-name": "Wang G."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "T.",
+          "@_fa": "true",
+          "ce:surname": "Cheng",
+          "ce:indexed-name": "Cheng T."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Do",
+          "ce:indexed-name": "Do Y."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Yang",
+          "ce:indexed-name": "Yang H."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Tao",
+          "ce:indexed-name": "Tao Y."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Gu",
+          "ce:indexed-name": "Gu J."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "B.",
+          "@_fa": "true",
+          "ce:surname": "An",
+          "ce:indexed-name": "An B."
+        },
+        {
+          "@seq": "8",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Yao",
+          "ce:indexed-name": "Yao L."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems"
+  },
+  "10.1145/3313831.3376227": {
+    "ref-publicationyear": {
+      "@first": "2020"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3313831.3376227",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Unfabricate: Designing smart textiles for disassembly"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85091319772",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "1",
+        "@last": "14"
+      }
+    },
+    "ref-text": "(Honolulu, HI, USA) (CHI '20). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Wu",
+          "ce:indexed-name": "Wu S."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Devendorf",
+          "ce:indexed-name": "Devendorf L."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems"
+  },
+  "10.1145/3586182.3617433": {
+    "ref-publicationyear": {
+      "@first": "2023"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3586182.3617433",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Future paradigms for sustainable making"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "109",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85178309995",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "3"
+      }
+    },
+    "ref-text": "(San Francisco, CA, USA) (UIST '23 Adjunct). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "Z.",
+          "@_fa": "true",
+          "ce:surname": "Yan",
+          "ce:indexed-name": "Yan Z."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "T.",
+          "@_fa": "true",
+          "ce:surname": "Cheng",
+          "ce:indexed-name": "Cheng T."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Lu",
+          "ce:indexed-name": "Lu J."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "P.",
+          "@_fa": "true",
+          "ce:surname": "Lopes",
+          "ce:indexed-name": "Lopes P."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Peng",
+          "ce:indexed-name": "Peng H."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Adjunct Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology"
+  },
+  "10.1145/3706598.3713665": {
+    "ref-publicationyear": {
+      "@first": "2025"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3706598.3713665",
+        "@type": "email"
+      }
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "105005735788",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "Z.",
+          "@_fa": "true",
+          "ce:surname": "Yan",
+          "ce:indexed-name": "Yan Z."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Dhagude",
+          "ce:indexed-name": "Dhagude M."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Peng",
+          "ce:indexed-name": "Peng H."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Make Making Sustainable: Exploring Sustainability Practices, Challenges, and Opportunities in Making Activities (CHI '25)"
+  },
+  "10.1145/3526113.3545652": {
+    "ref-publicationyear": {
+      "@first": "2022"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3526113.3545652",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Fibercuit: Prototyping high-resolution flexible and kirigami circuits with a fiber laser engraver"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "12",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85141645434",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "13"
+      }
+    },
+    "ref-text": "(Bend, OR, USA) (UIST '22). Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "Z.",
+          "@_fa": "true",
+          "ce:surname": "Yan",
+          "ce:indexed-name": "Yan Z."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Sathya",
+          "ce:indexed-name": "Sathya A."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Yusuf",
+          "ce:indexed-name": "Yusuf S."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "J.-M.",
+          "@_fa": "true",
+          "ce:surname": "Lien",
+          "ce:indexed-name": "Lien J.-M."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Peng",
+          "ce:indexed-name": "Peng H."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology"
+  },
+  "10.1002/adfm.201301847": {
+    "ref-publicationyear": {
+      "@first": "2014"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1002/adfm.201301847",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Dissolvable metals for transient electronics"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84895057255",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "24",
+        "@issue": "5"
+      },
+      "pagerange": {
+        "@first": "645",
+        "@last": "658"
+      }
+    },
+    "ref-text": "2014",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Yin",
+          "ce:indexed-name": "Yin L."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Cheng",
+          "ce:indexed-name": "Cheng H."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Mao",
+          "ce:indexed-name": "Mao S."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Haasch",
+          "ce:indexed-name": "Haasch R."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Liu",
+          "ce:indexed-name": "Liu Y."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "X.",
+          "@_fa": "true",
+          "ce:surname": "Xie",
+          "ce:indexed-name": "Xie X."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "S.-W.",
+          "@_fa": "true",
+          "ce:surname": "Hwang",
+          "ce:indexed-name": "Hwang S.-W."
+        },
+        {
+          "@seq": "8",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Jain",
+          "ce:indexed-name": "Jain H."
+        },
+        {
+          "@seq": "9",
+          "ce:initials": "S.-K.",
+          "@_fa": "true",
+          "ce:surname": "Kang",
+          "ce:indexed-name": "Kang S.-K."
+        },
+        {
+          "@seq": "10",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Su",
+          "ce:indexed-name": "Su Y."
+        },
+        {
+          "@seq": "11",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Li",
+          "ce:indexed-name": "Li R."
+        },
+        {
+          "@seq": "12",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Huang",
+          "ce:indexed-name": "Huang Y."
+        },
+        {
+          "@seq": "13",
+          "ce:initials": "J.A.",
+          "@_fa": "true",
+          "ce:surname": "Rogers",
+          "ce:indexed-name": "Rogers J.A."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Advanced Functional Materials"
+  },
+  "10.1038/s41893-024-01333-7": {
+    "ref-publicationyear": {
+      "@first": "2024"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1038/s41893-024-01333-7",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Recyclable vitrimer-based printed circuit boards for sustainable electronics"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85191307546",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "7",
+        "@issue": "5"
+      },
+      "pagerange": {
+        "@first": "616",
+        "@last": "627"
+      }
+    },
+    "ref-text": "May 2024",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "Z.",
+          "@_fa": "true",
+          "ce:surname": "Zhang",
+          "ce:indexed-name": "Zhang Z."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "A.K.",
+          "@_fa": "true",
+          "ce:surname": "Biswal",
+          "ce:indexed-name": "Biswal A.K."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Nandi",
+          "ce:indexed-name": "Nandi A."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Frost",
+          "ce:indexed-name": "Frost K."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "J.A.",
+          "@_fa": "true",
+          "ce:surname": "Smith",
+          "ce:indexed-name": "Smith J.A."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "B.H.",
+          "@_fa": "true",
+          "ce:surname": "Nguyen",
+          "ce:indexed-name": "Nguyen B.H."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Patel",
+          "ce:indexed-name": "Patel S."
+        },
+        {
+          "@seq": "8",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Vashisth",
+          "ce:indexed-name": "Vashisth A."
+        },
+        {
+          "@seq": "9",
+          "ce:initials": "V.",
+          "@_fa": "true",
+          "ce:surname": "Iyer",
+          "ce:indexed-name": "Iyer V."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Nature Sustainability"
+  },
+  "10.1145/3643561": {
+    "ref-publicationyear": {
+      "@first": "2024"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3643561",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Deltalca: Comparative life-cycle assessment for electronics design"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "29",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85196212576",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "8",
+        "@issue": "1"
+      },
+      "pagerange": {
+        "@first": "29"
+      }
+    },
+    "ref-text": "mar 2024",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "Z.",
+          "@_fa": "true",
+          "ce:surname": "Zhang",
+          "ce:indexed-name": "Zhang Z."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "F.",
+          "@_fa": "true",
+          "ce:surname": "Hahnlein",
+          "ce:indexed-name": "Hahnlein F."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Mei",
+          "ce:indexed-name": "Mei Y."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "Z.",
+          "@_fa": "true",
+          "ce:surname": "Englhardt",
+          "ce:indexed-name": "Englhardt Z."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Patel",
+          "ce:indexed-name": "Patel S."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Schulz",
+          "ce:indexed-name": "Schulz A."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "V.",
+          "@_fa": "true",
+          "ce:surname": "Iyer",
+          "ce:indexed-name": "Iyer V."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol."
+  },
+  "10.1145/3313831.3376617": {
+    "ref-publicationyear": {
+      "@first": "2020"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3313831.3376617",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Curve- boards: Integrating breadboards into physical objects to prototype function in the context of form"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85090237031",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "1",
+        "@last": "13"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Zhu",
+          "ce:indexed-name": "Zhu J."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "L.-G.",
+          "@_fa": "true",
+          "ce:surname": "Blumberg",
+          "ce:indexed-name": "Blumberg L.-G."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Zhu",
+          "ce:indexed-name": "Zhu Y."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Nisser",
+          "ce:indexed-name": "Nisser M."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "E.L.",
+          "@_fa": "true",
+          "ce:surname": "Carlson",
+          "ce:indexed-name": "Carlson E.L."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "X.",
+          "@_fa": "true",
+          "ce:surname": "Wen",
+          "ce:indexed-name": "Wen X."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Shum",
+          "ce:indexed-name": "Shum K."
+        },
+        {
+          "@seq": "8",
+          "ce:initials": "J.A.",
+          "@_fa": "true",
+          "ce:surname": "Quaye",
+          "ce:indexed-name": "Quaye J.A."
+        },
+        {
+          "@seq": "9",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Mueller",
+          "ce:indexed-name": "Mueller S."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (Honolulu, HI, USA) (CHI '20)"
+  },
+  "10.1145/3613904.3642718": {
+    "ref-publicationyear": {
+      "@first": "2024"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1145/3613904.3642718",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Ecothreads: Prototyping biodegradable e-textiles through thread-based fabrication"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "857",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85194840420",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "17"
+      }
+    },
+    "ref-text": "(Honolulu, HI, USA) (CHI '24). Association for Computing Machinery, New York, NY, USA(Cindy)",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Zhu",
+          "ce:indexed-name": "Zhu J."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Winagle",
+          "ce:indexed-name": "Winagle L."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "H.-L.",
+          "@_fa": "true",
+          "ce:surname": "Kao",
+          "ce:indexed-name": "Kao H.-L."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the CHI Conference on Human Factors in Computing Systems"
+  }
+}

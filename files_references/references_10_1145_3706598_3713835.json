@@ -1,0 +1,3846 @@
+{
+  "https://www.textureanalyzers.com/extrusion": {
+    "ref-publicationyear": {
+      "@first": "2023"
+    },
+    "ref-website": {
+      "websitename": "Extrusion",
+      "ce:e-address": {
+        "$": "https://www.textureanalyzers.com/extrusion",
+        "@type": "email"
+      }
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "105005757747",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-sourcetitle": "Texture Analyzers"
+  },
+  "10.1145/3490149.3503669": {
+    "ref-publicationyear": {
+      "@first": "2022"
+    },
+    "ref-title": {
+      "ref-titletext": "Designing with Alganyl: A Hands-on Exploration of Biodegradable Plastics"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3490149.3503669",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "56",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85124957101",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagecount": {
+        "$": "5",
+        "@type": "arabic"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "F.",
+          "@_fa": "true",
+          "ce:surname": "Bell",
+          "ce:indexed-name": "Bell F."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Alistar",
+          "ce:indexed-name": "Alistar M."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the Sixteenth International Conference on Tangible, Embedded, and Embodied Interaction (Daejeon, Republic of Korea) (TEI '22)"
+  },
+  "10.1145/3613904.3642246": {
+    "ref-publicationyear": {
+      "@first": "2024"
+    },
+    "ref-title": {
+      "ref-titletext": "Shape-Changing Clay-Dough: Taking a Material-Oriented Approach to 3D Printing Ceramic Forms"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3613904.3642246",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "864",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85194167228",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagecount": {
+        "$": "19",
+        "@type": "arabic"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "F.",
+          "@_fa": "true",
+          "ce:surname": "Bell",
+          "ce:indexed-name": "Bell F."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "McClure",
+          "ce:indexed-name": "McClure E."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "C.",
+          "@_fa": "true",
+          "ce:surname": "Friedman-Gerlicz",
+          "ce:indexed-name": "Friedman-Gerlicz C."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Ta",
+          "ce:indexed-name": "Ta R."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Buechley",
+          "ce:indexed-name": "Buechley L."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the CHI Conference on Human Factors in Computing Systems (Honolulu, HI, USA) (CHI '24)"
+  },
+  "10.1145/3491101.3519875": {
+    "ref-publicationyear": {
+      "@first": "2022"
+    },
+    "ref-title": {
+      "ref-titletext": "Biomaterial Playground: Engaging with Bio-based Materiality"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3491101.3519875",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "171",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85129734526",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagecount": {
+        "$": "5",
+        "@type": "arabic"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "F.",
+          "@_fa": "true",
+          "ce:surname": "Bell",
+          "ce:indexed-name": "Bell F."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "N.",
+          "@_fa": "true",
+          "ce:surname": "Ofer",
+          "ce:indexed-name": "Ofer N."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "Frier",
+          "ce:indexed-name": "Frier E."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "McQuaid",
+          "ce:indexed-name": "McQuaid E."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Choi",
+          "ce:indexed-name": "Choi H."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Alistar",
+          "ce:indexed-name": "Alistar M."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (New Orleans, LA, USA) (CHI EA '22)"
+  },
+  "79951594684": {
+    "ref-publicationyear": {
+      "@first": "2006"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "79951594684",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-text": "Springer, N/A",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "C.M.",
+          "@_fa": "true",
+          "ce:surname": "Bishop",
+          "ce:indexed-name": "Bishop C.M."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Pattern Recognition and Machine Learning"
+  },
+  "10.1145/3173574.3174025": {
+    "ref-publicationyear": {
+      "@first": "2018"
+    },
+    "ref-title": {
+      "ref-titletext": "RecipeScape: An Interactive Tool for Analyzing Cooking Instructions at Scale"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3173574.3174025",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85046970412",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "1",
+        "@last": "12"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Chang",
+          "ce:indexed-name": "Chang M."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "L.V.",
+          "@_fa": "true",
+          "ce:surname": "Guillain",
+          "ce:indexed-name": "Guillain L.V."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Jung",
+          "ce:indexed-name": "Jung H."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "V.M.",
+          "@_fa": "true",
+          "ce:surname": "Hare",
+          "ce:indexed-name": "Hare V.M."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Kim",
+          "ce:indexed-name": "Kim J."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Agrawala",
+          "ce:indexed-name": "Agrawala M."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (Montreal QC, Canada) (CHI '18)"
+  },
+  "10.1145/3357236.3395579": {
+    "ref-publicationyear": {
+      "@first": "2020"
+    },
+    "ref-title": {
+      "ref-titletext": "Cultivating Material Knowledge: Experiments with a Low Cost Interface for 3D Texture Scanning"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3357236.3395579",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85090500676",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "1089",
+        "@last": "1102"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "W.",
+          "@_fa": "true",
+          "ce:surname": "Wei Chi",
+          "ce:indexed-name": "Wei Chi W."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Byrne",
+          "ce:indexed-name": "Byrne D."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2020 ACM Designing Interactive Systems Conference (Eindhoven, Netherlands) (DIS '20)"
+  },
+  "10.1016/j.jfoodeng.2006.04.051": {
+    "ref-publicationyear": {
+      "@first": "2007"
+    },
+    "ref-title": {
+      "ref-titletext": "Effects of temperature on viscosity of dodol (concoction)"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1016/j.jfoodeng.2006.04.051",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "33845299800",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "80",
+        "@issue": "2"
+      },
+      "pagerange": {
+        "@first": "423",
+        "@last": "430"
+      }
+    },
+    "ref-text": "2007",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "T.G.",
+          "@_fa": "true",
+          "ce:surname": "Chuah",
+          "ce:indexed-name": "Chuah T.G."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Hairul Nisah",
+          "ce:indexed-name": "Hairul Nisah H."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "S.Y.",
+          "@_fa": "true",
+          "ce:surname": "Thomas Choong",
+          "ce:indexed-name": "Thomas Choong S.Y."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "N.L.",
+          "@_fa": "true",
+          "ce:surname": "Chin",
+          "ce:indexed-name": "Chin N.L."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "A.H.",
+          "@_fa": "true",
+          "ce:surname": "Nazimah Sheikh",
+          "ce:indexed-name": "Nazimah Sheikh A.H."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Journal of Food Engineering"
+  },
+  "10.1063/1.3671572": {
+    "ref-publicationyear": {
+      "@first": "2011"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://pubs.aip.org/aip/rsi/articlepdf/doi/10.1063/1.3671572/8827425/125111_1_online.pdf",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Pressure-driven capillary viscometer: Fundamental challenges in transient flow viscometry"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1063/1.3671572",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "84855313451",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "82",
+        "@issue": "12"
+      },
+      "pagerange": {
+        "@first": "125111"
+      }
+    },
+    "ref-text": "12 2011",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "R.M.",
+          "@_fa": "true",
+          "ce:surname": "Digilov",
+          "ce:indexed-name": "Digilov R.M."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Review of Scientific Instruments"
+  },
+  "10.1145/3472749.3474733": {
+    "ref-publicationyear": {
+      "@first": "2021"
+    },
+    "ref-title": {
+      "ref-titletext": "SensiCut: Material-Aware Laser Cutting Using Speckle Sensing and Deep Learning"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3472749.3474733",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85118230381",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "24",
+        "@last": "38"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Doga Dogan",
+          "ce:indexed-name": "Doga Dogan M."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Vidal Acevedo Colon",
+          "ce:indexed-name": "Vidal Acevedo Colon S."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "V.",
+          "@_fa": "true",
+          "ce:surname": "Sinha",
+          "ce:indexed-name": "Sinha V."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Aksit",
+          "ce:indexed-name": "Aksit K."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Mueller",
+          "ce:indexed-name": "Mueller S."
+        }
+      ]
+    },
+    "ref-sourcetitle": "The 34th Annual ACM Symposium on User Interface Software and Technology (Virtual Event, USA) (UIST '21)"
+  },
+  "10.1145/3563657.3596048": {
+    "ref-publicationyear": {
+      "@first": "2023"
+    },
+    "ref-title": {
+      "ref-titletext": "Tacit Descriptions: Uncovering Ambiguity in Crowdsourced Descriptions of Motions and Materials"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3563657.3596048",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85185222417",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "2522",
+        "@last": "2536"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Endow",
+          "ce:indexed-name": "Endow S."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "C.",
+          "@_fa": "true",
+          "ce:surname": "Torres",
+          "ce:indexed-name": "Torres C."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2023 ACM Designing Interactive Systems Conference (Pittsburgh, PA, USA) (DIS '23)"
+  },
+  "10.1145/2998181.2998204": {
+    "ref-publicationyear": {
+      "@first": "2017"
+    },
+    "ref-title": {
+      "ref-titletext": "Material Vision"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/2998181.2998204",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85014788852",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "604",
+        "@last": "617"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Feinberg",
+          "ce:indexed-name": "Feinberg M."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing (Portland, Oregon, USA) (CSCW '17)"
+  },
+  "10.1145/2702123.2702337": {
+    "ref-publicationyear": {
+      "@first": "2015"
+    },
+    "ref-title": {
+      "ref-titletext": "Foundations of Materials Experience: An Approach for HCI"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/2702123.2702337",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "84940710235",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "2447",
+        "@last": "2456"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "Giaccardi",
+          "ce:indexed-name": "Giaccardi E."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "Karana",
+          "ce:indexed-name": "Karana E."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (Seoul, Republic of Korea) (CHI '15)"
+  },
+  "https://cdn.sparkfun.com/assets/2/e/8/0/9/honeywell-mpr-datasheet.pdf": {
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://cdn.sparkfun.com/assets/2/e/8/0/9/honeywell-mpr-datasheet.pdf",
+        "@type": "email"
+      }
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "105005757384",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-text": "Honeywell 201",
+    "ref-sourcetitle": "MicroPressure Board Mount Pressure Sensors Compact, High Accuracy, Compensated/Amplifie. Honeywell, Honeywell Sensing and Internet of Things, 9680 Old Bailes Road Fort Mill, SC 29707"
+  },
+  "10.1111/jtxs.12501": {
+    "ref-publicationyear": {
+      "@first": "2020"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.1111/jtxs.12501",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Analysis of viscosity measurements obtained using the short back extrusion method. Part 1: Theory of short back extrusion in viscometry"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85077859177",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "51"
+      },
+      "pagerange": {
+        "@first": "201",
+        "@last": "213"
+      }
+    },
+    "ref-text": "2020",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "T.",
+          "@_fa": "true",
+          "ce:surname": "Hoshino",
+          "ce:indexed-name": "Hoshino T."
+        }
+      ]
+    },
+    "ref-sourcetitle": "J Texture Stud"
+  },
+  "10.1145/3447993.3448621": {
+    "ref-publicationyear": {
+      "@first": "2021"
+    },
+    "ref-title": {
+      "ref-titletext": "Vi-Liquid: Unknown Liquid Identification with Your Smartphone Vibration"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3447993.3448621",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85102868381",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "174",
+        "@last": "187"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Huang",
+          "ce:indexed-name": "Huang Y."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Chen",
+          "ce:indexed-name": "Chen K."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Huang",
+          "ce:indexed-name": "Huang Y."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Wang",
+          "ce:indexed-name": "Wang L."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Wu",
+          "ce:indexed-name": "Wu K."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 27th Annual International Conference on Mobile Computing and Networking (New Orleans, Louisiana) (MobiCom '21)"
+  },
+  "10.1145/1753846.1754152": {
+    "ref-publicationyear": {
+      "@first": "2010"
+    },
+    "ref-title": {
+      "ref-titletext": "Mudpad: Fluid Haptics for Multitouch Surfaces"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/1753846.1754152",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "77953105218",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "4351",
+        "@last": "4356"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Jansen",
+          "ce:indexed-name": "Jansen Y."
+        }
+      ]
+    },
+    "ref-sourcetitle": "CHI '10 Extended Abstracts on Human Factors in Computing Systems (Atlanta, Georgia, USA) (CHI EA '10)"
+  },
+  "10.1145/3267242.3267262": {
+    "ref-publicationyear": {
+      "@first": "2018"
+    },
+    "ref-title": {
+      "ref-titletext": "Skinmorph: Texture-Tunable on-Skin Interface through Thin, Programmable Gel"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3267242.3267262",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85056866378",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "196",
+        "@last": "203"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Kao",
+          "ce:indexed-name": "Kao H."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Bamforth",
+          "ce:indexed-name": "Bamforth M."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Kim",
+          "ce:indexed-name": "Kim D."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "C.",
+          "@_fa": "true",
+          "ce:surname": "Schmandt",
+          "ce:indexed-name": "Schmandt C."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2018 ACM International Symposium on Wearable Computers (Singapore, Singapore) (ISWC '18)"
+  },
+  "10.1145/3332165.3347892": {
+    "ref-publicationyear": {
+      "@first": "2019"
+    },
+    "ref-title": {
+      "ref-titletext": "Soft Inkjet Circuits: Rapid Multi-Material Fabrication of Soft Circuits Using a Commodity Inkjet Printer"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3332165.3347892",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85074837147",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "341",
+        "@last": "354"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Khan",
+          "ce:indexed-name": "Khan A."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Sol Roo",
+          "ce:indexed-name": "Sol Roo J."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "T.",
+          "@_fa": "true",
+          "ce:surname": "Kraus",
+          "ce:indexed-name": "Kraus T."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Steimle",
+          "ce:indexed-name": "Steimle J."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (New Orleans, LA, USA) (UIST '19)"
+  },
+  "10.1145/3025453.3025980": {
+    "ref-publicationyear": {
+      "@first": "2017"
+    },
+    "ref-title": {
+      "ref-titletext": "EdiPulse: Investigating a Playful Approach to Self-Monitoring through 3D Printed Chocolate Treats"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3025453.3025980",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85034812342",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "6593",
+        "@last": "6607"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Ashok Khot",
+          "ce:indexed-name": "Ashok Khot R."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Aggarwal",
+          "ce:indexed-name": "Aggarwal D."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Pennings",
+          "ce:indexed-name": "Pennings R."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Hjorth",
+          "ce:indexed-name": "Hjorth L."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "F.",
+          "@_fa": "true",
+          "ce:surname": "Mueller",
+          "ce:indexed-name": "Mueller F."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (Denver, Colorado, USA) (CHI '17)"
+  },
+  "85081692869": {
+    "ref-publicationyear": {
+      "@first": "2019"
+    },
+    "ref-title": {
+      "ref-titletext": "3D printing chocolate: Properties of formulations for extrusion, sintering, binding and ink jetting"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85081692869",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "151",
+        "@last": "173"
+      }
+    },
+    "ref-text": "Elsevier, N/A",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Lanaro",
+          "ce:indexed-name": "Lanaro M."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "M.R.",
+          "@_fa": "true",
+          "ce:surname": "Desselle",
+          "ce:indexed-name": "Desselle M.R."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "M.A.",
+          "@_fa": "true",
+          "ce:surname": "Woodruff",
+          "ce:indexed-name": "Woodruff M.A."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Fundamentals of 3D food printing and applications"
+  },
+  "10.1145/3173574.3173610": {
+    "ref-publicationyear": {
+      "@first": "2018"
+    },
+    "ref-title": {
+      "ref-titletext": "Evaluation Strategies for HCI Toolkit Research"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3173574.3173610",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85046975971",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "1",
+        "@last": "17"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Ledo",
+          "ce:indexed-name": "Ledo D."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Houben",
+          "ce:indexed-name": "Houben S."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Vermeulen",
+          "ce:indexed-name": "Vermeulen J."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "N.",
+          "@_fa": "true",
+          "ce:surname": "Marquardt",
+          "ce:indexed-name": "Marquardt N."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Oehlberg",
+          "ce:indexed-name": "Oehlberg L."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Greenberg",
+          "ce:indexed-name": "Greenberg S."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (Montreal QC, Canada) (CHI '18)"
+  },
+  "10.1145/3301019.3323896": {
+    "ref-publicationyear": {
+      "@first": "2019"
+    },
+    "ref-title": {
+      "ref-titletext": "Designing Internal Structure of Chocolate and Its Effect on Food Texture"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3301019.3323896",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85069486679",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "231",
+        "@last": "235"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Lee",
+          "ce:indexed-name": "Lee Y."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Bin Yim",
+          "ce:indexed-name": "Bin Yim J."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Kang",
+          "ce:indexed-name": "Kang D."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Yi",
+          "ce:indexed-name": "Yi H."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Saakes",
+          "ce:indexed-name": "Saakes D."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Companion Publication of the 2019 on Designing Interactive Systems Conference 2019 Companion (<conf-loc>, <city>San Diego</city>, <state>CA</state>, <country> USA</country>, </conf-loc>) (DIS '19 Companion)"
+  },
+  "10.1145/3478075": {
+    "ref-publicationyear": {
+      "@first": "2021"
+    },
+    "ref-title": {
+      "ref-titletext": "FG-LiquID: A Contact-Less Fine-Grained Liquid Identifier by Pushing the Limits of Millimeter-Wave Sensing"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3478075",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "116",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85115167488",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagecount": {
+        "$": "27",
+        "@type": "arabic"
+      },
+      "voliss": {
+        "@volume": "5",
+        "@issue": "3"
+      }
+    },
+    "ref-text": "sep 2021",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Liang",
+          "ce:indexed-name": "Liang Y."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Zhou",
+          "ce:indexed-name": "Zhou A."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Zhang",
+          "ce:indexed-name": "Zhang H."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "X.",
+          "@_fa": "true",
+          "ce:surname": "Wen",
+          "ce:indexed-name": "Wen X."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Ma",
+          "ce:indexed-name": "Ma H."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol."
+  },
+  "10.1145/3635636.3656192": {
+    "ref-publicationyear": {
+      "@first": "2024"
+    },
+    "ref-title": {
+      "ref-titletext": "VideoMap: Supporting Video Exploration, Brainstorming, and Prototyping in the Latent Space"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3635636.3656192",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85197858884",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "311",
+        "@last": "327"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Chuan-En Lin",
+          "ce:indexed-name": "Chuan-En Lin D."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "F.",
+          "@_fa": "true",
+          "ce:surname": "Caba Heilbron",
+          "ce:indexed-name": "Caba Heilbron F."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Lee",
+          "ce:indexed-name": "Lee J."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "O.",
+          "@_fa": "true",
+          "ce:surname": "Wang",
+          "ce:indexed-name": "Wang O."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "N.",
+          "@_fa": "true",
+          "ce:surname": "Martelaro",
+          "ce:indexed-name": "Martelaro N."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 16th Conference on Creativity & Cognition (Chicago, IL, USA)"
+  },
+  "85070078777": {
+    "ref-publicationyear": {
+      "@first": "2019"
+    },
+    "ref-title": {
+      "ref-titletext": "Latent space cartography: Visual analysis of vector space embeddings"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85070078777",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "38"
+      },
+      "pagerange": {
+        "@first": "67",
+        "@last": "78"
+      }
+    },
+    "ref-text": "Wiley Online Library, N/A, N/A",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Liu",
+          "ce:indexed-name": "Liu Y."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "Jun",
+          "ce:indexed-name": "Jun E."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "Q.",
+          "@_fa": "true",
+          "ce:surname": "Li",
+          "ce:indexed-name": "Li Q."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Heer",
+          "ce:indexed-name": "Heer J."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Computer graphics forum"
+  },
+  "10.1145/3613905.3651087": {
+    "ref-publicationyear": {
+      "@first": "2024"
+    },
+    "ref-title": {
+      "ref-titletext": "Guttation Sensor: Wearable Microfluidic Chip for Plant Condition Monitoring and Diagnosis"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3613905.3651087",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "183",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85194193481",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagecount": {
+        "$": "9",
+        "@type": "arabic"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, NewYork, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "Q.",
+          "@_fa": "true",
+          "ce:surname": "Lu",
+          "ce:indexed-name": "Lu Q."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Yang",
+          "ce:indexed-name": "Yang L."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Maheshwari",
+          "ce:indexed-name": "Maheshwari A."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Ni",
+          "ce:indexed-name": "Ni H."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "T.",
+          "@_fa": "true",
+          "ce:surname": "Yu",
+          "ce:indexed-name": "Yu T."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Gu",
+          "ce:indexed-name": "Gu J."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Wadhwani",
+          "ce:indexed-name": "Wadhwani A."
+        },
+        {
+          "@seq": "8",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Xu",
+          "ce:indexed-name": "Xu H."
+        },
+        {
+          "@seq": "9",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Danielescu",
+          "ce:indexed-name": "Danielescu A."
+        },
+        {
+          "@seq": "10",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Yao",
+          "ce:indexed-name": "Yao L."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (Honolulu, HI, USA) (CHI EA '24)"
+  },
+  "10.1145/3613905.3651020": {
+    "ref-publicationyear": {
+      "@first": "2024"
+    },
+    "ref-title": {
+      "ref-titletext": "Shape Cast: Automating 3D Design for Plaster Molds in Ceramic Slip Casting"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3613905.3651020",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "287",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85194155302",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagecount": {
+        "$": "7",
+        "@type": "arabic"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Lyons",
+          "ce:indexed-name": "Lyons K."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Extended Abstracts of the 2024 CHI Conference on Human Factors in Computing Systems (CHI EA '24)"
+  },
+  "84860119333": {
+    "ref-publicationyear": {
+      "@first": "1994"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84860119333",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-text": "VCH Publishers, New York",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "C.W.",
+          "@_fa": "true",
+          "ce:surname": "MacOsko",
+          "ce:indexed-name": "MacOsko C.W."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Rheology: Principles, Measurements and Applications"
+  },
+  "10.1122/8.0000138": {
+    "ref-publicationyear": {
+      "@first": "2021"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://pubs.aip.org/sor/jor/articlepdf/65/2/179/12509804/179_1_online.pdf",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Datadriven physics-informed constitutive metamodeling of complex fluids: A multifidelity neural network (MFNN) framework"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1122/8.0000138",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85101122304",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "65",
+        "@issue": "2"
+      },
+      "pagerange": {
+        "@first": "179",
+        "@last": "198"
+      }
+    },
+    "ref-text": "03 2021",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Mahmoudabadbozchelou",
+          "ce:indexed-name": "Mahmoudabadbozchelou M."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Caggioni",
+          "ce:indexed-name": "Caggioni M."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Shahsavari",
+          "ce:indexed-name": "Shahsavari S."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "W.H.",
+          "@_fa": "true",
+          "ce:surname": "Hartt",
+          "ce:indexed-name": "Hartt W.H."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "G.",
+          "@_fa": "true",
+          "ce:surname": "Em Karniadakis",
+          "ce:indexed-name": "Em Karniadakis G."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Jamali",
+          "ce:indexed-name": "Jamali S."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Journal of Rheology"
+  },
+  "10.1038/s41598-021-91518-3": {
+    "ref-publicationyear": {
+      "@first": "2021"
+    },
+    "ref-title": {
+      "ref-titletext": "Rheology-Informed Neural Networks (RhINNs) for forward and inverse metamodelling of complex fluids"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1038/s41598-021-91518-3",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85107631642",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "11",
+        "@issue": "1"
+      },
+      "pagerange": {
+        "@first": "12015"
+      }
+    },
+    "ref-text": "2021",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Mahmoudabadbozchelou",
+          "ce:indexed-name": "Mahmoudabadbozchelou M."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Jamali",
+          "ce:indexed-name": "Jamali S."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Scientific Reports"
+  },
+  "10.1073/pnas.2202234119": {
+    "ref-publicationyear": {
+      "@first": "2022"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://www.pnas.org/doi/pdf/10.1073/pnas.2202234119",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Digital rheometer twins: Learning the hidden rheology of complex fluids through rheology-informed graph neural networks"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1073/pnas.2202234119",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85129937709",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "119",
+        "@issue": "20"
+      },
+      "pagerange": {
+        "@first": "34119"
+      }
+    },
+    "ref-text": "2022",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Mahmoudabadbozchelou",
+          "ce:indexed-name": "Mahmoudabadbozchelou M."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "K.M.",
+          "@_fa": "true",
+          "ce:surname": "Kamani",
+          "ce:indexed-name": "Kamani K.M."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "S.A.",
+          "@_fa": "true",
+          "ce:surname": "Rogers",
+          "ce:indexed-name": "Rogers S.A."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Jamali",
+          "ce:indexed-name": "Jamali S."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the National Academy of Sciences"
+  },
+  "10.1145/3357236.3395424": {
+    "ref-publicationyear": {
+      "@first": "2020"
+    },
+    "ref-title": {
+      "ref-titletext": "EcoPatches: Maker-Friendly Chemical-Based UV Sensing"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3357236.3395424",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85090495441",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "1983",
+        "@last": "1994"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Mariakakis",
+          "ce:indexed-name": "Mariakakis A."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Chen",
+          "ce:indexed-name": "Chen S."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "B.H.",
+          "@_fa": "true",
+          "ce:surname": "Nguyen",
+          "ce:indexed-name": "Nguyen B.H."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Bray",
+          "ce:indexed-name": "Bray K."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Blank",
+          "ce:indexed-name": "Blank M."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Lester",
+          "ce:indexed-name": "Lester J."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Ryan",
+          "ce:indexed-name": "Ryan L."
+        },
+        {
+          "@seq": "8",
+          "ce:initials": "P.",
+          "@_fa": "true",
+          "ce:surname": "Johns",
+          "ce:indexed-name": "Johns P."
+        },
+        {
+          "@seq": "9",
+          "ce:initials": "G.",
+          "@_fa": "true",
+          "ce:surname": "Ramos",
+          "ce:indexed-name": "Ramos G."
+        },
+        {
+          "@seq": "10",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Roseway",
+          "ce:indexed-name": "Roseway A."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2020 ACM Designing Interactive Systems Conference (<conf-loc>, <city>Eindhoven</city>, <country>Netherlands</country>, </conf-loc>) (DIS '20)"
+  },
+  "10.1145/3411764.3445346": {
+    "ref-publicationyear": {
+      "@first": "2021"
+    },
+    "ref-title": {
+      "ref-titletext": "Flower Jelly Printer: Slit Injection Printing for Parametrically Designed Flower Jelly"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3411764.3445346",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "425",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "105002562344",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagecount": {
+        "$": "10",
+        "@type": "arabic"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Miyatake",
+          "ce:indexed-name": "Miyatake M."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Narumi",
+          "ce:indexed-name": "Narumi K."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Sekiya",
+          "ce:indexed-name": "Sekiya Y."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Kawahara",
+          "ce:indexed-name": "Kawahara Y."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (Yokohama, Japan) (CHI '21)"
+  },
+  "10.1145/3313831.3376129": {
+    "ref-publicationyear": {
+      "@first": "2020"
+    },
+    "ref-title": {
+      "ref-titletext": "Venous Materials: Towards Interactive Fluidic Mechanisms"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3313831.3376129",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85091278232",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "1",
+        "@last": "14"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Mor",
+          "ce:indexed-name": "Mor H."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "T.",
+          "@_fa": "true",
+          "ce:surname": "Yu",
+          "ce:indexed-name": "Yu T."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Nakagaki",
+          "ce:indexed-name": "Nakagaki K."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "B.",
+          "@_fa": "true",
+          "ce:surname": "Harvey Miller",
+          "ce:indexed-name": "Harvey Miller B."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Jia",
+          "ce:indexed-name": "Jia Y."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Ishii",
+          "ce:indexed-name": "Ishii H."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (Honolulu, HI, USA) (CHI '20)"
+  },
+  "10.1145/3490149.3501310": {
+    "ref-publicationyear": {
+      "@first": "2022"
+    },
+    "ref-title": {
+      "ref-titletext": "Glaze Epochs: Understanding Lifelong Material Relationships within Ceramics Studios"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3490149.3501310",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "4",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85124968211",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagecount": {
+        "$": "13",
+        "@type": "arabic"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Moradi",
+          "ce:indexed-name": "Moradi H."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "L.N.",
+          "@_fa": "true",
+          "ce:surname": "Nguyen",
+          "ce:indexed-name": "Nguyen L.N."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "Q.",
+          "@_fa": "true",
+          "ce:surname": "Valentina Nguyen",
+          "ce:indexed-name": "Valentina Nguyen Q."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "C.",
+          "@_fa": "true",
+          "ce:surname": "Torres",
+          "ce:indexed-name": "Torres C."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the Sixteenth International Conference on Tangible, Embedded, and Embodied Interaction (Daejeon, Republic of Korea) (TEI '22)"
+  },
+  "10.1145/3357236.3395473": {
+    "ref-publicationyear": {
+      "@first": "2020"
+    },
+    "ref-title": {
+      "ref-titletext": "Siloseam: A Morphogenetic Workflow for the Design and Fabrication of Inflatable Silicone Bladders"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3357236.3395473",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85090496564",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "1995",
+        "@last": "2006"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Moradi",
+          "ce:indexed-name": "Moradi H."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "C.",
+          "@_fa": "true",
+          "ce:surname": "Torres",
+          "ce:indexed-name": "Torres C."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2020 ACM Designing Interactive Systems Conference (Eindhoven, Netherlands) (DIS '20)"
+  },
+  "10.3390/s21010115": {
+    "ref-publicationyear": {
+      "@first": "2021"
+    },
+    "ref-title": {
+      "ref-titletext": "Microcantilever: Dynamical Response for Mass Sensing and Fluid Characterization"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.3390/s21010115",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85098772984",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "21",
+        "@issue": "1"
+      }
+    },
+    "ref-text": "2021, N/A",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Mouro",
+          "ce:indexed-name": "Mouro J."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Pinto",
+          "ce:indexed-name": "Pinto R."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "P.",
+          "@_fa": "true",
+          "ce:surname": "Paoletti",
+          "ce:indexed-name": "Paoletti P."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "B.",
+          "@_fa": "true",
+          "ce:surname": "Tiribilli",
+          "ce:indexed-name": "Tiribilli B."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Sensors"
+  },
+  "84855363699": {
+    "ref-publicationyear": {
+      "@first": "2011"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84855363699",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-text": "The MIT Press, N/A",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "J.H.",
+          "@_fa": "true",
+          "ce:surname": "Murray",
+          "ce:indexed-name": "Murray J.H."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Inventing the Medium: Principles of Interaction Design as a Cultural Practice"
+  },
+  "https://www.stablemicrosystems.com": {
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://www.stablemicrosystems.com",
+        "@type": "email"
+      }
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "68249118544",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-sourcetitle": "Texture Analyzer"
+  },
+  "10.1002/advs.202202638": {
+    "ref-publicationyear": {
+      "@first": "2022"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202202638",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "Machine Learning Reveals a General Understanding of Printability in Formulations Based on Rheology Additives"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1002/advs.202202638",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85136601633",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "9",
+        "@issue": "29"
+      },
+      "pagerange": {
+        "@first": "2202638"
+      }
+    },
+    "ref-text": "2022",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Nadernezhad",
+          "ce:indexed-name": "Nadernezhad A."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Groll",
+          "ce:indexed-name": "Groll J."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Advanced Science"
+  },
+  "10.1109/IDAACS.2013.6662695": {
+    "ref-publicationyear": {
+      "@first": "2013"
+    },
+    "ref-title": {
+      "ref-titletext": "Odor classification by neural networks"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1109/IDAACS.2013.6662695",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "84892655198",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "1"
+      },
+      "pagerange": {
+        "@first": "309",
+        "@last": "314"
+      }
+    },
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Omatu",
+          "ce:indexed-name": "Omatu S."
+        }
+      ]
+    },
+    "ref-sourcetitle": "2013 IEEE 7th International Conference on Intelligent Data Acquisition and Advanced Computing Systems (IDAACS)"
+  },
+  "80555140075": {
+    "ref-publicationyear": {
+      "@first": "2011"
+    },
+    "ref-title": {
+      "ref-titletext": "Scikit-learn: Machine Learning in Python"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "80555140075",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "12"
+      },
+      "pagerange": {
+        "@first": "2825",
+        "@last": "2830"
+      }
+    },
+    "ref-text": "2011",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "F.",
+          "@_fa": "true",
+          "ce:surname": "Pedregosa",
+          "ce:indexed-name": "Pedregosa F."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "G.",
+          "@_fa": "true",
+          "ce:surname": "Varoquaux",
+          "ce:indexed-name": "Varoquaux G."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Gramfort",
+          "ce:indexed-name": "Gramfort A."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "V.",
+          "@_fa": "true",
+          "ce:surname": "Michel",
+          "ce:indexed-name": "Michel V."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "B.",
+          "@_fa": "true",
+          "ce:surname": "Thirion",
+          "ce:indexed-name": "Thirion B."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "O.",
+          "@_fa": "true",
+          "ce:surname": "Grisel",
+          "ce:indexed-name": "Grisel O."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Blondel",
+          "ce:indexed-name": "Blondel M."
+        },
+        {
+          "@seq": "8",
+          "ce:initials": "P.",
+          "@_fa": "true",
+          "ce:surname": "Prettenhofer",
+          "ce:indexed-name": "Prettenhofer P."
+        },
+        {
+          "@seq": "9",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Weiss",
+          "ce:indexed-name": "Weiss R."
+        },
+        {
+          "@seq": "10",
+          "ce:initials": "V.",
+          "@_fa": "true",
+          "ce:surname": "Dubourg",
+          "ce:indexed-name": "Dubourg V."
+        },
+        {
+          "@seq": "11",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Vanderplas",
+          "ce:indexed-name": "Vanderplas J."
+        },
+        {
+          "@seq": "12",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Passos",
+          "ce:indexed-name": "Passos A."
+        },
+        {
+          "@seq": "13",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Cournapeau",
+          "ce:indexed-name": "Cournapeau D."
+        },
+        {
+          "@seq": "14",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Brucher",
+          "ce:indexed-name": "Brucher M."
+        },
+        {
+          "@seq": "15",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Perrot",
+          "ce:indexed-name": "Perrot M."
+        },
+        {
+          "@seq": "16",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "Duchesnay",
+          "ce:indexed-name": "Duchesnay E."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Journal of Machine Learning Research"
+  },
+  "10.3933/applrheol-21-53642": {
+    "ref-publicationyear": {
+      "@first": "2011"
+    },
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://doi.org/10.3933/applrheol-21-53642",
+        "@type": "email"
+      }
+    },
+    "ref-title": {
+      "ref-titletext": "The Back Extrusion Test as a Technique for Determining the Rheological and Tribological Behaviour of Yield Stress Fluids at Low Shear Rates"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84855404222",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "21",
+        "@issue": "5"
+      },
+      "pagerange": {
+        "@first": "53642"
+      }
+    },
+    "ref-text": "2011",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Perrot",
+          "ce:indexed-name": "Perrot A."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "M\u00e9linge",
+          "ce:indexed-name": "Melinge Y."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "P.",
+          "@_fa": "true",
+          "ce:surname": "Estell\u00e9",
+          "ce:indexed-name": "Estelle P."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Rangeard",
+          "ce:indexed-name": "Rangeard D."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "C.",
+          "@_fa": "true",
+          "ce:surname": "Lanos",
+          "ce:indexed-name": "Lanos C."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Applied Rheology"
+  },
+  "84968193156": {
+    "ref-publicationyear": {
+      "@first": "1964"
+    },
+    "ref-title": {
+      "ref-titletext": "An efficient method for finding the minimum of a function of several variables without calculating derivatives"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84968193156",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "7",
+        "@issue": "2"
+      },
+      "pagerange": {
+        "@first": "155",
+        "@last": "162"
+      }
+    },
+    "ref-text": "1964",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "M.J.D.",
+          "@_fa": "true",
+          "ce:surname": "Powell",
+          "ce:indexed-name": "Powell M.J.D."
+        }
+      ]
+    },
+    "ref-sourcetitle": "The computer journal"
+  },
+  "85046935815": {
+    "ref-publicationyear": {
+      "@first": "2018"
+    },
+    "ref-title": {
+      "ref-titletext": "HCI meets material science: A literature review of morphing materials for the design of shape-changing interfaces"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85046935815",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "1",
+        "@last": "23"
+      }
+    },
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "I.P.S.",
+          "@_fa": "true",
+          "ce:surname": "Qamar",
+          "ce:indexed-name": "Qamar I.P.S."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Groh",
+          "ce:indexed-name": "Groh R."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Holman",
+          "ce:indexed-name": "Holman D."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Roudaut",
+          "ce:indexed-name": "Roudaut A."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems"
+  },
+  "10.1145/3563657.3595983": {
+    "ref-publicationyear": {
+      "@first": "2023"
+    },
+    "ref-title": {
+      "ref-titletext": "Designing a Sustainable Material for 3D Printing with Spent Coffee Grounds"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3563657.3595983",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85178511626",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "294",
+        "@last": "311"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "M.L.",
+          "@_fa": "true",
+          "ce:surname": "Rivera",
+          "ce:indexed-name": "Rivera M.L."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Sandra Bae",
+          "ce:indexed-name": "Sandra Bae S."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "S.E.",
+          "@_fa": "true",
+          "ce:surname": "Hudson",
+          "ce:indexed-name": "Hudson S.E."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2023 ACM Designing Interactive Systems Conference (Pittsburgh, PA, USA) (DIS '23)"
+  },
+  "10.1145/3334480.3382788": {
+    "ref-publicationyear": {
+      "@first": "2020"
+    },
+    "ref-title": {
+      "ref-titletext": "Hydrogel-Textile Composites: Actuators for Shape-Changing Interfaces"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3334480.3382788",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85090222713",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "1",
+        "@last": "9"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "M.L.",
+          "@_fa": "true",
+          "ce:surname": "Rivera",
+          "ce:indexed-name": "Rivera M.L."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Forman",
+          "ce:indexed-name": "Forman J."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "S.E.",
+          "@_fa": "true",
+          "ce:surname": "Hudson",
+          "ce:indexed-name": "Hudson S.E."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Yao",
+          "ce:indexed-name": "Yao L."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (Honolulu, HI, USA) (CHI EA '20)"
+  },
+  "10.1145/2702123.2702169": {
+    "ref-publicationyear": {
+      "@first": "2015"
+    },
+    "ref-title": {
+      "ref-titletext": "SpecTrans: Versatile Material Classification for Interaction with Textureless, Specular and Transparent Surfaces"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/2702123.2702169",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "84951022556",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "2191",
+        "@last": "2200"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Sato",
+          "ce:indexed-name": "Sato M."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Yoshida",
+          "ce:indexed-name": "Yoshida S."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Olwal",
+          "ce:indexed-name": "Olwal A."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "B.",
+          "@_fa": "true",
+          "ce:surname": "Shi",
+          "ce:indexed-name": "Shi B."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Hiyama",
+          "ce:indexed-name": "Hiyama A."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "T.",
+          "@_fa": "true",
+          "ce:surname": "Tanikawa",
+          "ce:indexed-name": "Tanikawa T."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Hirose",
+          "ce:indexed-name": "Hirose M."
+        },
+        {
+          "@seq": "8",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Raskar",
+          "ce:indexed-name": "Raskar R."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (Seoul, Republic of Korea) (CHI '15)"
+  },
+  "https://www.programmableair.com": {
+    "ref-website": {
+      "ce:e-address": {
+        "$": "https://www.programmableair.com",
+        "@type": "email"
+      }
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "105005734593",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Shrivastava",
+          "ce:indexed-name": "Shrivastava A."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Programable Air"
+  },
+  "10.1145/2702123.2702497": {
+    "ref-publicationyear": {
+      "@first": "2015"
+    },
+    "ref-title": {
+      "ref-titletext": "Exploring Gesture Sonification to Support Reflective Craft Practice"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/2702123.2702497",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "84951100383",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "67",
+        "@last": "76"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "T.",
+          "@_fa": "true",
+          "ce:surname": "Smith",
+          "ce:indexed-name": "Smith T."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "S.J.",
+          "@_fa": "true",
+          "ce:surname": "Bowen",
+          "ce:indexed-name": "Bowen S.J."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "B.",
+          "@_fa": "true",
+          "ce:surname": "Nissen",
+          "ce:indexed-name": "Nissen B."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Hook",
+          "ce:indexed-name": "Hook J."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Verhoeven",
+          "ce:indexed-name": "Verhoeven A."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Bowers",
+          "ce:indexed-name": "Bowers J."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "P.",
+          "@_fa": "true",
+          "ce:surname": "Wright",
+          "ce:indexed-name": "Wright P."
+        },
+        {
+          "@seq": "8",
+          "ce:initials": "P.",
+          "@_fa": "true",
+          "ce:surname": "Olivier",
+          "ce:indexed-name": "Olivier P."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (Seoul, Republic of Korea) (CHI '15)"
+  },
+  "0004175636": {
+    "ref-publicationyear": {
+      "@first": "1996"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "0004175636",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-text": "Freeman Press, N/A",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "J.F.",
+          "@_fa": "true",
+          "ce:surname": "Steffe",
+          "ce:indexed-name": "Steffe J.F."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Rheological methods in food process engineering"
+  },
+  "10.1145/3551640": {
+    "ref-publicationyear": {
+      "@first": "2023"
+    },
+    "ref-title": {
+      "ref-titletext": "Akte-Liquid: Acoustic-Based Liquid Identification with Smartphones"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3551640",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "18",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85151778370",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagecount": {
+        "$": "24",
+        "@type": "arabic"
+      },
+      "voliss": {
+        "@volume": "19",
+        "@issue": "1"
+      }
+    },
+    "ref-text": "feb 2023",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "X.",
+          "@_fa": "true",
+          "ce:surname": "Sun",
+          "ce:indexed-name": "Sun X."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "W.",
+          "@_fa": "true",
+          "ce:surname": "Deng",
+          "ce:indexed-name": "Deng W."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "X.",
+          "@_fa": "true",
+          "ce:surname": "Wei",
+          "ce:indexed-name": "Wei X."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Fang",
+          "ce:indexed-name": "Fang D."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "B.",
+          "@_fa": "true",
+          "ce:surname": "Li",
+          "ce:indexed-name": "Li B."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "X.",
+          "@_fa": "true",
+          "ce:surname": "Chen",
+          "ce:indexed-name": "Chen X."
+        }
+      ]
+    },
+    "ref-sourcetitle": "ACM Trans. Sen. Netw."
+  },
+  "10.1145/2858036.2858571": {
+    "ref-publicationyear": {
+      "@first": "2016"
+    },
+    "ref-title": {
+      "ref-titletext": "MyPart: Personal, Portable, Accurate, Airborne Particle Counting"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/2858036.2858571",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "84991057252",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "1338",
+        "@last": "1348"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Tian",
+          "ce:indexed-name": "Tian R."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "C.",
+          "@_fa": "true",
+          "ce:surname": "Dierk",
+          "ce:indexed-name": "Dierk C."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "C.",
+          "@_fa": "true",
+          "ce:surname": "Myers",
+          "ce:indexed-name": "Myers C."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "Paulos",
+          "ce:indexed-name": "Paulos E."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (San Jose, California, USA) (CHI '16)"
+  },
+  "10.1145/3430524.3440654": {
+    "ref-publicationyear": {
+      "@first": "2021"
+    },
+    "ref-title": {
+      "ref-titletext": "Flowcuits: Crafting Tangible and Interactive Electrical Components with Liquid Metal Circuits"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3430524.3440654",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "35",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85102037099",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagecount": {
+        "$": "11",
+        "@type": "arabic"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Tokuda",
+          "ce:indexed-name": "Tokuda Y."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Ranjan Sahoo",
+          "ce:indexed-name": "Ranjan Sahoo D."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Jones",
+          "ce:indexed-name": "Jones M."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Subramanian",
+          "ce:indexed-name": "Subramanian S."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Withana",
+          "ce:indexed-name": "Withana A."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the Fifteenth International Conference on Tangible, Embedded, and Embodied Interaction (Salzburg, Austria) (TEI '21)"
+  },
+  "10.1145/3294109.3295643": {
+    "ref-publicationyear": {
+      "@first": "2019"
+    },
+    "ref-title": {
+      "ref-titletext": "A Conversation with Actuators: An Exploratory Design Environment for Hybrid Materials"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3294109.3295643",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85063869809",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "657",
+        "@last": "667"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "C.",
+          "@_fa": "true",
+          "ce:surname": "Torres",
+          "ce:indexed-name": "Torres C."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Jane Nicholas",
+          "ce:indexed-name": "Jane Nicholas M."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Lee",
+          "ce:indexed-name": "Lee S."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "Paulos",
+          "ce:indexed-name": "Paulos E."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the Thirteenth International Conference on Tangible, Embedded, and Embodied Interaction (Tempe, Arizona, USA) (TEI '19)"
+  },
+  "10.1145/2858036.2858556": {
+    "ref-publicationyear": {
+      "@first": "2016"
+    },
+    "ref-title": {
+      "ref-titletext": "Trigger-Action Programming in the Wild: An Analysis of 200, 000 IFTTT Recipes"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/2858036.2858556",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "84991044280",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "3227",
+        "@last": "3231"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "B.",
+          "@_fa": "true",
+          "ce:surname": "Ur",
+          "ce:indexed-name": "Ur B."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Pak Yong Ho",
+          "ce:indexed-name": "Pak Yong Ho M."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Brawner",
+          "ce:indexed-name": "Brawner S."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Lee",
+          "ce:indexed-name": "Lee J."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Mennicken",
+          "ce:indexed-name": "Mennicken S."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "N.",
+          "@_fa": "true",
+          "ce:surname": "Picard",
+          "ce:indexed-name": "Picard N."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Schulze",
+          "ce:indexed-name": "Schulze D."
+        },
+        {
+          "@seq": "8",
+          "ce:initials": "M.L.",
+          "@_fa": "true",
+          "ce:surname": "Littman",
+          "ce:indexed-name": "Littman M.L."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (San Jose, California, USA) (CHI '16)"
+  },
+  "10.1145/3025453.3026019": {
+    "ref-publicationyear": {
+      "@first": "2017"
+    },
+    "ref-title": {
+      "ref-titletext": "Transformative Appetite: Shape-Changing Food Transforms from 2D to 3D by Water Interaction through Cooking"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3025453.3026019",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85041239523",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "6123",
+        "@last": "6132"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "W.",
+          "@_fa": "true",
+          "ce:surname": "Wang",
+          "ce:indexed-name": "Wang W."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Yao",
+          "ce:indexed-name": "Yao L."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "T.",
+          "@_fa": "true",
+          "ce:surname": "Zhang",
+          "ce:indexed-name": "Zhang T."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "C.",
+          "@_fa": "true",
+          "ce:surname": "Cheng",
+          "ce:indexed-name": "Cheng C."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Levine",
+          "ce:indexed-name": "Levine D."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Ishii",
+          "ce:indexed-name": "Ishii H."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (Denver, Colorado, USA) (CHI '17)"
+  },
+  "10.1145/2851581.2892372": {
+    "ref-publicationyear": {
+      "@first": "2016"
+    },
+    "ref-title": {
+      "ref-titletext": "Designing with Concrete for Enhancing Everyday Interactions"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/2851581.2892372",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85014690650",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "1497",
+        "@last": "1502"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Wang",
+          "ce:indexed-name": "Wang Y."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Liu",
+          "ce:indexed-name": "Liu S."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Lu",
+          "ce:indexed-name": "Lu Y."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Duan",
+          "ce:indexed-name": "Duan J."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "C.",
+          "@_fa": "true",
+          "ce:surname": "Yao",
+          "ce:indexed-name": "Yao C."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "F.",
+          "@_fa": "true",
+          "ce:surname": "Ying",
+          "ce:indexed-name": "Ying F."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems (San Jose, California, USA) (CHI EA '16)"
+  },
+  "10.1145/3460418.3480162": {
+    "ref-publicationyear": {
+      "@first": "2021"
+    },
+    "ref-title": {
+      "ref-titletext": "Material Identification System with Sound Simulation Assisted Method in VR/AR Scenarios"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3460418.3480162",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85115941126",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "575",
+        "@last": "579"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Wang",
+          "ce:indexed-name": "Wang Y."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "Z.",
+          "@_fa": "true",
+          "ce:surname": "Runting",
+          "ce:indexed-name": "Runting Z."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Wu",
+          "ce:indexed-name": "Wu H."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "G.",
+          "@_fa": "true",
+          "ce:surname": "Xue",
+          "ce:indexed-name": "Xue G."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium onWearable Computers (Virtual, USA) (UbiComp '21)"
+  },
+  "10.21105/joss.03021": {
+    "ref-publicationyear": {
+      "@first": "2021"
+    },
+    "ref-title": {
+      "ref-titletext": "Seaborn: Statistical data visualization"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.21105/joss.03021",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85104830034",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "6",
+        "@issue": "60"
+      },
+      "pagerange": {
+        "@first": "3021"
+      }
+    },
+    "ref-text": "2021",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "M.L.",
+          "@_fa": "true",
+          "ce:surname": "Waskom",
+          "ce:indexed-name": "Waskom M.L."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Journal of Open Source Software"
+  },
+  "10.1145/3411822": {
+    "ref-publicationyear": {
+      "@first": "2020"
+    },
+    "ref-title": {
+      "ref-titletext": "MSense: Towards Mobile Material Sensing with a Single Millimeter-Wave Radio"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3411822",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "106",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85092431664",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagecount": {
+        "$": "20",
+        "@type": "arabic"
+      },
+      "voliss": {
+        "@volume": "4",
+        "@issue": "3"
+      }
+    },
+    "ref-text": "sep 2020",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "C.",
+          "@_fa": "true",
+          "ce:surname": "Wu",
+          "ce:indexed-name": "Wu C."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "F.",
+          "@_fa": "true",
+          "ce:surname": "Zhang",
+          "ce:indexed-name": "Zhang F."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "B.",
+          "@_fa": "true",
+          "ce:surname": "Wang",
+          "ce:indexed-name": "Wang B."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "K.J.",
+          "@_fa": "true",
+          "ce:surname": "Ray Liu",
+          "ce:indexed-name": "Ray Liu K.J."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol."
+  },
+  "10.1145/3411764.3445097": {
+    "ref-publicationyear": {
+      "@first": "2021"
+    },
+    "ref-title": {
+      "ref-titletext": "Freeform Fabrication of Fluidic Edible Materials"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3411764.3445097",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "620",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85106755853",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagecount": {
+        "$": "10",
+        "@type": "arabic"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Yang",
+          "ce:indexed-name": "Yang H."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Luo",
+          "ce:indexed-name": "Luo D."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Qian",
+          "ce:indexed-name": "Qian K."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Yao",
+          "ce:indexed-name": "Yao L."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (Yokohama, Japan) (CHI '21)"
+  },
+  "10.1145/3544548.3580836": {
+    "ref-publicationyear": {
+      "@first": "2023"
+    },
+    "ref-title": {
+      "ref-titletext": "Crafting Interactive Circuits on Glazed Ceramic Ware"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3544548.3580836",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "474",
+          "@idtype": "ARTNUM"
+        },
+        {
+          "$": "85160022987",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagecount": {
+        "$": "18",
+        "@type": "arabic"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "C.",
+          "@_fa": "true",
+          "ce:surname": "Zheng",
+          "ce:indexed-name": "Zheng C."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "B.",
+          "@_fa": "true",
+          "ce:surname": "Han",
+          "ce:indexed-name": "Han B."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "X.",
+          "@_fa": "true",
+          "ce:surname": "Liu",
+          "ce:indexed-name": "Liu X."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Devendorf",
+          "ce:indexed-name": "Devendorf L."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Tan",
+          "ce:indexed-name": "Tan H."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "C.",
+          "@_fa": "true",
+          "ce:surname": "Chiuan Yen",
+          "ce:indexed-name": "Chiuan Yen C."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (<conf-loc>, <city>Hamburg</city>, <country>Germany</country>, </conf-loc>) (CHI '23)"
+  },
+  "10.1145/3173574.3173974": {
+    "ref-publicationyear": {
+      "@first": "2018"
+    },
+    "ref-title": {
+      "ref-titletext": "Digital Konditorei: Programmable Taste Structures using a Modular Mold"
+    },
+    "refd-itemidlist": {
+      "itemid": [
+        {
+          "$": "10.1145/3173574.3173974",
+          "@idtype": "DOI"
+        },
+        {
+          "$": "85046973395",
+          "@idtype": "SGR"
+        }
+      ]
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "1",
+        "@last": "9"
+      }
+    },
+    "ref-text": "Association for Computing Machinery, New York, NY, USA",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Zoran",
+          "ce:indexed-name": "Zoran A."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Cohen",
+          "ce:indexed-name": "Cohen D."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (Montreal QC, Canada) (CHI '18)"
+  }
+}

@@ -1,0 +1,1862 @@
+{
+  "0032634964": {
+    "ref-publicationyear": {
+      "@first": "1999"
+    },
+    "ref-title": {
+      "ref-titletext": "Exploring interactive curve and surface manipulation using a bend and twist sensitive input strip"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "0032634964",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "111",
+        "@last": "118"
+      }
+    },
+    "ref-text": "(NYC, USA, Apr",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Balakrishnan",
+          "ce:indexed-name": "Balakrishnan R."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "G.",
+          "@_fa": "true",
+          "ce:surname": "Fitzmaurice",
+          "ce:indexed-name": "Fitzmaurice G."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "G.",
+          "@_fa": "true",
+          "ce:surname": "Kurtenbach",
+          "ce:indexed-name": "Kurtenbach G."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Singh",
+          "ce:indexed-name": "Singh K."
+        }
+      ]
+    },
+    "ref-sourcetitle": "I3D 99 ACM"
+  },
+  "79551470773": {
+    "ref-publicationyear": {
+      "@first": "2011"
+    },
+    "ref-title": {
+      "ref-titletext": "Shape-changing interfaces"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "79551470773",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "15",
+        "@issue": "2"
+      },
+      "pagerange": {
+        "@first": "161",
+        "@last": "173"
+      }
+    },
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Coelho",
+          "ce:indexed-name": "Coelho M."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Zigelbaum",
+          "ce:indexed-name": "Zigelbaum J."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Personal and Ubiquitous Computing"
+  },
+  "84887310476": {
+    "ref-publicationyear": {
+      "@first": "2013"
+    },
+    "ref-title": {
+      "ref-titletext": "Robot self-Assembly by folding: A printed inchworm robot"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84887310476",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "277",
+        "@last": "282"
+      }
+    },
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "S.M.",
+          "@_fa": "true",
+          "ce:surname": "Felton",
+          "ce:indexed-name": "Felton S.M."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "M.T.",
+          "@_fa": "true",
+          "ce:surname": "Tolley",
+          "ce:indexed-name": "Tolley M.T."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "C.D.",
+          "@_fa": "true",
+          "ce:surname": "Onal",
+          "ce:indexed-name": "Onal C.D."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Rus",
+          "ce:indexed-name": "Rus D."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "R.J.",
+          "@_fa": "true",
+          "ce:surname": "Wood",
+          "ce:indexed-name": "Wood R.J."
+        }
+      ]
+    },
+    "ref-sourcetitle": "ICRA'13"
+  },
+  "84880911551": {
+    "ref-publicationyear": {
+      "@first": "2013"
+    },
+    "ref-title": {
+      "ref-titletext": "Self-folding with shape memory composites"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84880911551",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "9",
+        "@issue": "32"
+      },
+      "pagerange": {
+        "@first": "7688",
+        "@last": "7694"
+      }
+    },
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "S.T.",
+          "@_fa": "true",
+          "ce:surname": "Felton",
+          "ce:indexed-name": "Felton S.T."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Wood",
+          "ce:indexed-name": "Wood R."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Soft Matter"
+  },
+  "84959305453": {
+    "ref-title": {
+      "ref-titletext": "Jamming user interfaces: Programmable particle stiffness and sensing for malleable and shape-changing devices"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84959305453",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "2012"
+      }
+    },
+    "ref-text": "USA, Oct",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Follmer",
+          "ce:indexed-name": "Follmer S."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Leithinger",
+          "ce:indexed-name": "Leithinger D."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Olwal",
+          "ce:indexed-name": "Olwal A."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "N.",
+          "@_fa": "true",
+          "ce:surname": "Cheng",
+          "ce:indexed-name": "Cheng N."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Ishii",
+          "ce:indexed-name": "Ishii H."
+        }
+      ]
+    },
+    "ref-sourcetitle": "ACM NYC"
+  },
+  "79959963042": {
+    "ref-publicationyear": {
+      "@first": "2011"
+    },
+    "ref-title": {
+      "ref-titletext": "The promise of flexible displays"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "79959963042",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "54",
+        "@issue": "6"
+      },
+      "pagerange": {
+        "@first": "16",
+        "@last": "18"
+      }
+    },
+    "ref-text": "(June",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "T.",
+          "@_fa": "true",
+          "ce:surname": "Geller",
+          "ce:indexed-name": "Geller T."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Communications of the ACM"
+  },
+  "84885195845": {
+    "ref-publicationyear": {
+      "@first": "2013"
+    },
+    "ref-title": {
+      "ref-titletext": "Detecting bends and fabric folds using stitched sensors"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84885195845",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "53",
+        "@last": "56"
+      }
+    },
+    "ref-text": "(NYC, USA, Sept",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "G.",
+          "@_fa": "true",
+          "ce:surname": "Gioberto",
+          "ce:indexed-name": "Gioberto G."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Coughlin",
+          "ce:indexed-name": "Coughlin J."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Bibeau",
+          "ce:indexed-name": "Bibeau K."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "L.E.",
+          "@_fa": "true",
+          "ce:surname": "Dunne",
+          "ce:indexed-name": "Dunne L.E."
+        }
+      ]
+    },
+    "ref-sourcetitle": "ISWC'13 ACM"
+  },
+  "84959260965": {
+    "ref-publicationyear": {
+      "@first": "2011"
+    },
+    "ref-title": {
+      "ref-titletext": "Second international worksh op on organic user interfaces"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84959260965",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-text": "USA, Jan",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Girouard",
+          "ce:indexed-name": "Girouard A."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Vertegaal",
+          "ce:indexed-name": "Vertegaal R."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "I.",
+          "@_fa": "true",
+          "ce:surname": "Poupyrev",
+          "ce:indexed-name": "Poupyrev I."
+        }
+      ]
+    },
+    "ref-sourcetitle": "ACM NYC"
+  },
+  "84877991751": {
+    "ref-publicationyear": {
+      "@first": "2013"
+    },
+    "ref-title": {
+      "ref-titletext": "Morephone: A study of actuated shape deformations for flexible thin-film smartphone notifications"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84877991751",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "583",
+        "@last": "592"
+      }
+    },
+    "ref-text": "(NYC, USA, Apr",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Gomes",
+          "ce:indexed-name": "Gomes A."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Nesbitt",
+          "ce:indexed-name": "Nesbitt A."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Vertegaal",
+          "ce:indexed-name": "Vertegaal R."
+        }
+      ]
+    },
+    "ref-sourcetitle": "CHI'13 ACM"
+  },
+  "84924040121": {
+    "ref-title": {
+      "ref-titletext": "Paperfold: Evaluating shape changes for viewport transformations in foldable thin-film display devices"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84924040121",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "15"
+      },
+      "pagerange": {
+        "@first": "153",
+        "@last": "160"
+      }
+    },
+    "ref-text": "ACM (NYC, USA, Jan. 2015",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Gomes",
+          "ce:indexed-name": "Gomes A."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Vertegaal",
+          "ce:indexed-name": "Vertegaal R."
+        }
+      ]
+    },
+    "ref-sourcetitle": "TEI"
+  },
+  "84900438279": {
+    "ref-publicationyear": {
+      "@first": "2014"
+    },
+    "ref-title": {
+      "ref-titletext": "Printsense: A versatile sensing technique to support multimodal flexible surface interaction"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84900438279",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "14"
+      },
+      "pagerange": {
+        "@first": "1407",
+        "@last": "1410"
+      }
+    },
+    "ref-text": "ACM (NYC, USA, Apr",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "N.W.",
+          "@_fa": "true",
+          "ce:surname": "Gong",
+          "ce:indexed-name": "Gong N.W."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Paradiso",
+          "ce:indexed-name": "Paradiso J."
+        }
+      ]
+    },
+    "ref-sourcetitle": "CHI"
+  },
+  "84959280449": {
+    "ref-publicationyear": {
+      "@first": "1979"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84959280449",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "Z.",
+          "@_fa": "true",
+          "ce:surname": "Hashin",
+          "ce:indexed-name": "Hashin Z."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "B.W.",
+          "@_fa": "true",
+          "ce:surname": "Rosen",
+          "ce:indexed-name": "Rosen B.W."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "R.B.",
+          "@_fa": "true",
+          "ce:surname": "Pipes",
+          "ce:indexed-name": "Pipes R.B."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "U.S.N.A.",
+          "@_fa": "true",
+          "ce:surname": "Office",
+          "ce:indexed-name": "Office U.S.N.A."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "S.A.",
+          "@_fa": "true",
+          "ce:surname": "Scientific",
+          "ce:indexed-name": "Scientific S.A."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "T.",
+          "@_fa": "true",
+          "ce:surname": "Information",
+          "ce:indexed-name": "Information T."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Nonlinear Effects on Composite Laminate Thermal Expansion"
+  },
+  "77955465302": {
+    "ref-publicationyear": {
+      "@first": "2010"
+    },
+    "ref-title": {
+      "ref-titletext": "Programmable matter by folding"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "77955465302",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "107",
+        "@issue": "28"
+      },
+      "pagerange": {
+        "@first": "12441",
+        "@last": "12445"
+      }
+    },
+    "ref-text": "(July",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "E.A.B.",
+          "@_fa": "true",
+          "ce:surname": "Hawkes",
+          "ce:indexed-name": "Hawkes E.A.B."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Wood",
+          "ce:indexed-name": "Wood R."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Proceedings of the National Academy of Sciences"
+  },
+  "84977857925": {
+    "ref-publicationyear": {
+      "@first": "2012"
+    },
+    "ref-title": {
+      "ref-titletext": "Material matters. New materials in design"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84977857925",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "P.",
+          "@_fa": "true",
+          "ce:surname": "Howes",
+          "ce:indexed-name": "Howes P."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "Z.",
+          "@_fa": "true",
+          "ce:surname": "Laughlin",
+          "ce:indexed-name": "Laughlin Z."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Black Dog Pub Limited"
+  },
+  "http://www.instructables.com/id/DIY-Flexible-Printed-Circuits/": {
+    "ref-website": {
+      "ce:e-address": {
+        "$": "http://www.instructables.com/id/DIY-Flexible-Printed-Circuits/",
+        "@type": "email"
+      }
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85026944197",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-text": "By chkarnett. In last accessed 07/20/2015",
+    "ref-sourcetitle": "Instructables. DIY Flexible Printed Circuit"
+  },
+  "http://www.instructables.com/id/Toner-transfer-no-soakhigh-quality-double-sided/": {
+    "ref-website": {
+      "ce:e-address": {
+        "$": "http://www.instructables.com/id/Toner-transfer-no-soakhigh-quality-double-sided/",
+        "@type": "email"
+      }
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85026944531",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-text": "Instructables. By dustinandrews. In last accessed 07/20/2015",
+    "ref-sourcetitle": "Toner Transfer No-Soak, High-Quality, Double Sided PCBs at Home"
+  },
+  "84863560823": {
+    "ref-publicationyear": {
+      "@first": "2012"
+    },
+    "ref-title": {
+      "ref-titletext": "Radical atoms: Beyond tangible bits toward transformable materials"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84863560823",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "19",
+        "@issue": "1"
+      },
+      "pagerange": {
+        "@first": "38",
+        "@last": "51"
+      }
+    },
+    "ref-text": "(Jan",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Ishii",
+          "ce:indexed-name": "Ishii H."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Lakatos",
+          "ce:indexed-name": "Lakatos D."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Bonanni",
+          "ce:indexed-name": "Bonanni L."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "J.-B.",
+          "@_fa": "true",
+          "ce:surname": "Labrune",
+          "ce:indexed-name": "Labrune J.-B."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Interactions"
+  },
+  "84893404559": {
+    "ref-title": {
+      "ref-titletext": "Electronic origami with the color-changing function"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84893404559",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "13"
+      },
+      "pagerange": {
+        "@first": "7",
+        "@last": "12"
+      }
+    },
+    "ref-text": "ACM (NYC, USA, Dec. 2013",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "T.",
+          "@_fa": "true",
+          "ce:surname": "Kaihou",
+          "ce:indexed-name": "Kaihou T."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Wakita",
+          "ce:indexed-name": "Wakita A."
+        }
+      ]
+    },
+    "ref-sourcetitle": "SMI"
+  },
+  "84885225460": {
+    "ref-title": {
+      "ref-titletext": "Instant inkjet circuits: Lab-based inkjet printing to support rapid prototyping of ubicomp devices"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84885225460",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "363",
+        "@last": "372"
+      }
+    },
+    "ref-text": "ACM (NYC, USA, Sept. 2013",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "Y.H.S.C.B.Z.C.",
+          "@_fa": "true",
+          "ce:surname": "Kawahara",
+          "ce:indexed-name": "Kawahara Y.H.S.C.B.Z.C."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "G.",
+          "@_fa": "true",
+          "ce:surname": "Abowd",
+          "ce:indexed-name": "Abowd G."
+        }
+      ]
+    },
+    "ref-sourcetitle": "UbiComp'13"
+  },
+  "84885225206": {
+    "ref-publicationyear": {
+      "@first": "2013"
+    },
+    "ref-title": {
+      "ref-titletext": "Lumina: A soft kinetic material for morphing architectural skins and organic user interfaces"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84885225206",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "53",
+        "@last": "62"
+      }
+    },
+    "ref-text": "ACM (NYC, USA, Sept",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "C.",
+          "@_fa": "true",
+          "ce:surname": "Khoo",
+          "ce:indexed-name": "Khoo C."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "F.",
+          "@_fa": "true",
+          "ce:surname": "Salim",
+          "ce:indexed-name": "Salim F."
+        }
+      ]
+    },
+    "ref-sourcetitle": "UbiComp'13"
+  },
+  "84862548559": {
+    "ref-publicationyear": {
+      "@first": "2011"
+    },
+    "ref-title": {
+      "ref-titletext": "Wearable tactile keypad with stretchable artificial skin"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84862548559",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "1103",
+        "@last": "1107"
+      }
+    },
+    "ref-text": "IEEE",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "R.K.",
+          "@_fa": "true",
+          "ce:surname": "Kramer",
+          "ce:indexed-name": "Kramer R.K."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "C.",
+          "@_fa": "true",
+          "ce:surname": "Majidi",
+          "ce:indexed-name": "Majidi C."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "R.J.",
+          "@_fa": "true",
+          "ce:surname": "Wood",
+          "ce:indexed-name": "Wood R.J."
+        }
+      ]
+    },
+    "ref-sourcetitle": "ICRA'11"
+  },
+  "85026939366": {
+    "ref-title": {
+      "ref-titletext": "Paperphone: Understanding the use of ben d gestures in mobile devices with flexible electronic paper displays"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "85026939366",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-text": "NYC, USA, May 2011",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "B.G.A.B.W.",
+          "@_fa": "true",
+          "ce:surname": "Lahey",
+          "ce:indexed-name": "Lahey B.G.A.B.W."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Vertegaal",
+          "ce:indexed-name": "Vertegaal R."
+        }
+      ]
+    },
+    "ref-sourcetitle": "ACM"
+  },
+  "84863011424": {
+    "ref-publicationyear": {
+      "@first": "2012"
+    },
+    "ref-title": {
+      "ref-titletext": "Self-folding of polymer sheets using local light absorption"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84863011424",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "8",
+        "@issue": "6"
+      },
+      "pagerange": {
+        "@first": "1764",
+        "@last": "1769"
+      }
+    },
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "Y.B.J.G.J.",
+          "@_fa": "true",
+          "ce:surname": "Liu",
+          "ce:indexed-name": "Liu Y.B.J.G.J."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Dickey",
+          "ce:indexed-name": "Dickey M."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Soft Matter"
+  },
+  "79958177983": {
+    "ref-publicationyear": {
+      "@first": "2011"
+    },
+    "ref-title": {
+      "ref-titletext": "Designing tactile feedback for piezo buttons"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "79958177983",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "11"
+      },
+      "pagerange": {
+        "@first": "3281",
+        "@last": "3284"
+      }
+    },
+    "ref-text": "ACM (NYC, USA, May",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Lylykangas",
+          "ce:indexed-name": "Lylykangas J."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "V.",
+          "@_fa": "true",
+          "ce:surname": "Surakka",
+          "ce:indexed-name": "Surakka V."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Salminen",
+          "ce:indexed-name": "Salminen K."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Raisamo",
+          "ce:indexed-name": "Raisamo J."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "P.",
+          "@_fa": "true",
+          "ce:surname": "Laitinen",
+          "ce:indexed-name": "Laitinen P."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "R\u00f6nning",
+          "ce:indexed-name": "Ronning K."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Raisamo",
+          "ce:indexed-name": "Raisamo R."
+        }
+      ]
+    },
+    "ref-sourcetitle": "CHI"
+  },
+  "57349185651": {
+    "ref-publicationyear": {
+      "@first": "2008"
+    },
+    "ref-title": {
+      "ref-titletext": "Intelligent sticky notes that can be searched, located and can send reminders and messages"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "57349185651",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "8"
+      },
+      "pagerange": {
+        "@first": "425",
+        "@last": "426"
+      }
+    },
+    "ref-text": "ACM (NYC, USA, Jan",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "P.",
+          "@_fa": "true",
+          "ce:surname": "Mistry",
+          "ce:indexed-name": "Mistry P."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "P.",
+          "@_fa": "true",
+          "ce:surname": "Maes",
+          "ce:indexed-name": "Maes P."
+        }
+      ]
+    },
+    "ref-sourcetitle": "IUI"
+  },
+  "84920168057": {
+    "ref-publicationyear": {
+      "@first": "2015"
+    },
+    "ref-title": {
+      "ref-titletext": "Programming reversibly self-folding origami with m icropatterned photo-crosslinkable polymer trilayers"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84920168057",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "27",
+        "@issue": "1"
+      },
+      "pagerange": {
+        "@first": "79",
+        "@last": "85"
+      }
+    },
+    "ref-text": "(Jan",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "J.H.",
+          "@_fa": "true",
+          "ce:surname": "Na",
+          "ce:indexed-name": "Na J.H."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "A.A.",
+          "@_fa": "true",
+          "ce:surname": "Evans",
+          "ce:indexed-name": "Evans A.A."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Bae",
+          "ce:indexed-name": "Bae J."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "M.C.",
+          "@_fa": "true",
+          "ce:surname": "Chiappelli",
+          "ce:indexed-name": "Chiappelli M.C."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "C.D.",
+          "@_fa": "true",
+          "ce:surname": "Santangelo",
+          "ce:indexed-name": "Santangelo C.D."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "R.J.",
+          "@_fa": "true",
+          "ce:surname": "Lang",
+          "ce:indexed-name": "Lang R.J."
+        },
+        {
+          "@seq": "7",
+          "ce:initials": "T.C.",
+          "@_fa": "true",
+          "ce:surname": "Hull",
+          "ce:indexed-name": "Hull T.C."
+        },
+        {
+          "@seq": "8",
+          "ce:initials": "R.C.",
+          "@_fa": "true",
+          "ce:surname": "Hayward",
+          "ce:indexed-name": "Hayward R.C."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Advanced Materials"
+  },
+  "65549159300": {
+    "ref-publicationyear": {
+      "@first": "2008"
+    },
+    "ref-title": {
+      "ref-titletext": "A biomorphic origami actuator fabricated by folding a conducting paper"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "65549159300",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "127",
+        "@issue": "1"
+      },
+      "pagerange": {
+        "@first": "012001"
+      }
+    },
+    "ref-text": "Oct",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Okuzaki",
+          "ce:indexed-name": "Okuzaki H."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "T.",
+          "@_fa": "true",
+          "ce:surname": "Saido",
+          "ce:indexed-name": "Saido T."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Suzuki",
+          "ce:indexed-name": "Suzuki H."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "Y.",
+          "@_fa": "true",
+          "ce:surname": "Hara",
+          "ce:indexed-name": "Hara Y."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Yan",
+          "ce:indexed-name": "Yan H."
+        }
+      ]
+    },
+    "ref-sourcetitle": "Journal of Physics: Conference Series"
+  },
+  "84912027763": {
+    "ref-publicationyear": {
+      "@first": "2014"
+    },
+    "ref-title": {
+      "ref-titletext": "Printscreen: Fabricating highly customizable thin-film touch-displays"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84912027763",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "14"
+      },
+      "pagerange": {
+        "@first": "281",
+        "@last": "290"
+      }
+    },
+    "ref-text": "ACM (NYC, USA, Oct",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Olberding",
+          "ce:indexed-name": "Olberding S."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Wessely",
+          "ce:indexed-name": "Wessely M."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Steimle",
+          "ce:indexed-name": "Steimle J."
+        }
+      ]
+    },
+    "ref-sourcetitle": "UIST"
+  },
+  "84897563291": {
+    "ref-publicationyear": {
+      "@first": "2014"
+    },
+    "ref-title": {
+      "ref-titletext": "Jamsheets: Thin interfaces with tunable stiffness enabled by layer jamming"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84897563291",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "14"
+      },
+      "pagerange": {
+        "@first": "65",
+        "@last": "72"
+      }
+    },
+    "ref-text": "ACM (NYC, USA, Feb",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Ou",
+          "ce:indexed-name": "Ou J."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Yao",
+          "ce:indexed-name": "Yao L."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Tauber",
+          "ce:indexed-name": "Tauber D."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Steimle",
+          "ce:indexed-name": "Steimle J."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Niiyama",
+          "ce:indexed-name": "Niiyama R."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Ishii",
+          "ce:indexed-name": "Ishii H."
+        }
+      ]
+    },
+    "ref-sourcetitle": "TEI"
+  },
+  "84897520829": {
+    "ref-publicationyear": {
+      "@first": "2014"
+    },
+    "ref-title": {
+      "ref-titletext": "Move-it sticky notes providing active physical feedback through motion"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84897520829",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "14"
+      },
+      "pagerange": {
+        "@first": "29",
+        "@last": "36"
+      }
+    },
+    "ref-text": "ACM (NYC, USA, Feb",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Probst",
+          "ce:indexed-name": "Probst K."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Haller",
+          "ce:indexed-name": "Haller M."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "K.",
+          "@_fa": "true",
+          "ce:surname": "Yasu",
+          "ce:indexed-name": "Yasu K."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Sugimoto",
+          "ce:indexed-name": "Sugimoto M."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "M.",
+          "@_fa": "true",
+          "ce:surname": "Inami",
+          "ce:indexed-name": "Inami M."
+        }
+      ]
+    },
+    "ref-sourcetitle": "TEI"
+  },
+  "0038494757": {
+    "ref-publicationyear": {
+      "@first": "2002"
+    },
+    "ref-title": {
+      "ref-titletext": "Smartskin: An infrastructure for freehand manipulation on interactive surfaces"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "0038494757",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "2"
+      },
+      "pagerange": {
+        "@first": "113",
+        "@last": "120"
+      }
+    },
+    "ref-text": "ACM (New York, USA, Apr",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Rekimoto",
+          "ce:indexed-name": "Rekimoto J."
+        }
+      ]
+    },
+    "ref-sourcetitle": "CHI"
+  },
+  "84877960817": {
+    "ref-publicationyear": {
+      "@first": "2013"
+    },
+    "ref-title": {
+      "ref-titletext": "Morphees: Toward high \"shape resolution \" in self-Actuated flexible mobile d evices"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84877960817",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "593",
+        "@last": "602"
+      }
+    },
+    "ref-text": "ACM (NYC, USA, Apr",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "A.K.A.L.M.",
+          "@_fa": "true",
+          "ce:surname": "Roudaut",
+          "ce:indexed-name": "Roudaut A.K.A.L.M."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Subramanian",
+          "ce:indexed-name": "Subramanian S."
+        }
+      ]
+    },
+    "ref-sourcetitle": "CHI'13"
+  },
+  "4544273029": {
+    "ref-publicationyear": {
+      "@first": "2004"
+    },
+    "ref-title": {
+      "ref-titletext": "Gummi: A bendable computer"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "4544273029",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "voliss": {
+        "@volume": "4"
+      },
+      "pagerange": {
+        "@first": "263",
+        "@last": "270"
+      }
+    },
+    "ref-text": "ACM (NYC, USA, Apr",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "C.P.I.",
+          "@_fa": "true",
+          "ce:surname": "Schwesig",
+          "ce:indexed-name": "Schwesig C.P.I."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "E.",
+          "@_fa": "true",
+          "ce:surname": "Mori",
+          "ce:indexed-name": "Mori E."
+        }
+      ]
+    },
+    "ref-sourcetitle": "CHI"
+  },
+  "84907941769": {
+    "ref-publicationyear": {
+      "@first": "2014"
+    },
+    "ref-title": {
+      "ref-titletext": "Self-Assembling sensors for printable machines"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84907941769",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "4417",
+        "@last": "4422"
+      }
+    },
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "B.",
+          "@_fa": "true",
+          "ce:surname": "Shin",
+          "ce:indexed-name": "Shin B."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "S.M.",
+          "@_fa": "true",
+          "ce:surname": "Felton",
+          "ce:indexed-name": "Felton S.M."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "M.T.",
+          "@_fa": "true",
+          "ce:surname": "Tolley",
+          "ce:indexed-name": "Tolley M.T."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "R.J.",
+          "@_fa": "true",
+          "ce:surname": "Wood",
+          "ce:indexed-name": "Wood R.J."
+        }
+      ]
+    },
+    "ref-sourcetitle": "ICRA'14"
+  },
+  "84859055983": {
+    "ref-publicationyear": {
+      "@first": "2012"
+    },
+    "ref-title": {
+      "ref-titletext": "Designing and building inexpensive flexible circuits"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84859055983",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "375",
+        "@last": "377"
+      }
+    },
+    "ref-text": "ACM (NYC, USA, Feb",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Tarun",
+          "ce:indexed-name": "Tarun A."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "P.",
+          "@_fa": "true",
+          "ce:surname": "Wang",
+          "ce:indexed-name": "Wang P."
+        }
+      ]
+    },
+    "ref-sourcetitle": "TEI'12"
+  },
+  "79957931156": {
+    "ref-publicationyear": {
+      "@first": "2011"
+    },
+    "ref-title": {
+      "ref-titletext": "Snaplet: Using body shape to inform function in mobile flexible display devices"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "79957931156",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "329",
+        "@last": "334"
+      }
+    },
+    "ref-text": "(May",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "A.P.",
+          "@_fa": "true",
+          "ce:surname": "Tarun",
+          "ce:indexed-name": "Tarun A.P."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "B.",
+          "@_fa": "true",
+          "ce:surname": "Lahey",
+          "ce:indexed-name": "Lahey B."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Girouard",
+          "ce:indexed-name": "Girouard A."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "W.",
+          "@_fa": "true",
+          "ce:surname": "Burleson",
+          "ce:indexed-name": "Burleson W."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Vertegaal",
+          "ce:indexed-name": "Vertegaal R."
+        }
+      ]
+    },
+    "ref-sourcetitle": "CHI '11"
+  },
+  "35348846661": {
+    "ref-publicationyear": {
+      "@first": "2007"
+    },
+    "ref-title": {
+      "ref-titletext": "Computational composites"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "35348846661",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "513",
+        "@last": "522"
+      }
+    },
+    "ref-text": "(NYC, USA, Apr",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "A.",
+          "@_fa": "true",
+          "ce:surname": "Vallgrda",
+          "ce:indexed-name": "Vallgrda A."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Redstr\u00f6m",
+          "ce:indexed-name": "Redstrom J."
+        }
+      ]
+    },
+    "ref-sourcetitle": "CHI'07 ACM"
+  },
+  "80052803680": {
+    "ref-publicationyear": {
+      "@first": "2011"
+    },
+    "ref-title": {
+      "ref-titletext": "Bendflip: Examining input techniques for electronic book readers with flexible form factors"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "80052803680",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-volisspag": {
+      "pagerange": {
+        "@first": "117",
+        "@last": "133"
+      }
+    },
+    "ref-text": "Springer-Verlag (Sept",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "D.",
+          "@_fa": "true",
+          "ce:surname": "Wightman",
+          "ce:indexed-name": "Wightman D."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "T.",
+          "@_fa": "true",
+          "ce:surname": "Ginn",
+          "ce:indexed-name": "Ginn T."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Vertegaal",
+          "ce:indexed-name": "Vertegaal R."
+        }
+      ]
+    },
+    "ref-sourcetitle": "INTERACT'11"
+  },
+  "84887600584": {
+    "ref-publicationyear": {
+      "@first": "2013"
+    },
+    "ref-title": {
+      "ref-titletext": "Pneui: Pneumatically actuated soft composite materials for shape changing interfaces"
+    },
+    "refd-itemidlist": {
+      "itemid": {
+        "$": "84887600584",
+        "@idtype": "SGR"
+      }
+    },
+    "ref-text": "ACM",
+    "ref-authors": {
+      "author": [
+        {
+          "@seq": "1",
+          "ce:initials": "L.",
+          "@_fa": "true",
+          "ce:surname": "Yao",
+          "ce:indexed-name": "Yao L."
+        },
+        {
+          "@seq": "2",
+          "ce:initials": "R.",
+          "@_fa": "true",
+          "ce:surname": "Niiyama",
+          "ce:indexed-name": "Niiyama R."
+        },
+        {
+          "@seq": "3",
+          "ce:initials": "J.",
+          "@_fa": "true",
+          "ce:surname": "Ou",
+          "ce:indexed-name": "Ou J."
+        },
+        {
+          "@seq": "4",
+          "ce:initials": "S.",
+          "@_fa": "true",
+          "ce:surname": "Follmer",
+          "ce:indexed-name": "Follmer S."
+        },
+        {
+          "@seq": "5",
+          "ce:initials": "C.",
+          "@_fa": "true",
+          "ce:surname": "Della Silva",
+          "ce:indexed-name": "Della Silva C."
+        },
+        {
+          "@seq": "6",
+          "ce:initials": "H.",
+          "@_fa": "true",
+          "ce:surname": "Ishii",
+          "ce:indexed-name": "Ishii H."
+        }
+      ]
+    },
+    "ref-sourcetitle": "UIST'13"
+  }
+}
